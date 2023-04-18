@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Thank you!</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="domi-macaroni" changedate="20230418T201946Z" creationid="domi-macaroni" creationdate="20230418T201946Z">
+        <seg>Obrigade!</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
