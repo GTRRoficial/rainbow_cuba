@@ -36,6 +36,14 @@
         <seg>Obrigade! TESTE PRA VER SE FUNCIONA</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>education ‘to every home’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="domi-macaroni" changedate="20230419T215807Z" creationid="domi-macaroni" creationdate="20230419T215807Z">
+        <seg>education ‘to every home’ abc</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
