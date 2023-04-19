@@ -6,14 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
-        <seg>1990s: Broadcasting education ‘to every home’</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="domi-macaroni" changedate="20230419T214249Z" creationid="domi-macaroni" creationdate="20230419T214249Z">
-        <seg>1990s: Broadcasting education ‘to every home’ abc</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Colonial period in Cuba: Bodies shackled &amp; repressed</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="daniel" changedate="20230419T210935Z" creationid="daniel" creationdate="20230419T210712Z">
@@ -34,14 +26,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="domi-macaroni" changedate="20230418T224033Z" creationid="domi-macaroni" creationdate="20230418T224033Z">
         <seg>Rainbow Solidarity in Defense of Cuba TESTE PRA VER SE O REPOSITÓRIO TÁ FUNCIONANDO</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>education ‘to every home’</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="domi-macaroni" changedate="20230419T215807Z" creationid="domi-macaroni" creationdate="20230419T215807Z">
-        <seg>education ‘to every home’ abc</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
