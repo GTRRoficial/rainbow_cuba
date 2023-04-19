@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>1970s Cold War gay-bashers condemn Cuba</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="thy" changedate="20230419T225136Z" creationid="thy" creationdate="20230419T225136Z">
+        <seg>Homofóbicos da Guerra Fria dos anos 1970 condenam Cuba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1970s Cold War&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="thy" changedate="20230419T225247Z" creationid="thy" creationdate="20230419T225209Z">
+        <seg>Homofóbicos da Guerra Fria&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bob McCubbin, a young gay male leader in Workers World Party during the rise of the early gay liberation movement, recalls, “By having regular articles in Workers World, attending gay protests, producing and distributing flyers addressing lesbian and gay issues, giving extra visibility to gay comrades, organizing branch meetings on related issues, and doing outreach to the lesbian and gay communities, we were successful in attracting many lesbian and gay youth to our ranks in the early and middle 1970s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="thy" changedate="20230419T225507Z" creationid="thy" creationdate="20230419T225507Z">
+        <seg>Bob McCubbin, um jovem líder gay do a young gay male leader in Workers World Party during the rise of the early gay liberation movement, recalls, “By having regular articles in Workers World, attending gay protests, producing and distributing flyers addressing lesbian and gay issues, giving extra visibility to gay comrades, organizing branch meetings on related issues, and doing outreach to the lesbian and gay communities, we were successful in attracting many lesbian and gay youth to our ranks in the early and middle 1970s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colonial period in Cuba: Bodies shackled &amp; repressed</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="daniel" changedate="20230419T210935Z" creationid="daniel" creationdate="20230419T210712Z">
@@ -26,6 +50,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="domi-macaroni" changedate="20230418T224033Z" creationid="domi-macaroni" creationdate="20230418T224033Z">
         <seg>Rainbow Solidarity in Defense of Cuba TESTE PRA VER SE O REPOSITÓRIO TÁ FUNCIONANDO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gay-bashers condemn Cuba</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="thy" changedate="20230419T225254Z" creationid="thy" creationdate="20230419T225254Z">
+        <seg>dos anos 1970 condenam Cuba</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
