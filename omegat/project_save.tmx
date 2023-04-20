@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>$10 billion requested by the U.N.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215518Z" creationid="Gabri" creationdate="20230420T215518Z">
+        <seg>10 bilhões de dólares pedidos pela ONU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>16, 2003].</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214218Z" creationid="Gabri" creationdate="20230420T214218Z">
+        <seg>fevereiro de 2003.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1970s Cold War gay-bashers condemn Cuba</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="thy" changedate="20230419T225136Z" creationid="thy" creationdate="20230419T225136Z">
@@ -22,10 +38,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;MEDICC Review&lt;/f0&gt; noted in 2001 that, “Early treatment of AIDS consisted of AZT, interferons and other drugs commonly used in international protocols — but often more difficult for Cuba to purchase because many were patented by U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213912Z" creationid="Gabri" creationdate="20230420T213912Z">
+        <seg>A &lt;f0&gt;MEDICC Review&lt;/f0&gt; destacou, em 2001, que "O tratamento contra a AIDS consistia de AZT, interferons e outros medicamentos comumente usadas em protocolos internacionais - mas muitas vezes mais difícil para Cuba porque muitos deles foram patenteados pelas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;MEDICC Review&lt;/f0&gt; reprinted the full text of a speech by Cuban Vice President Carlos Lage Dávila, delivered earlier that year at the United Nations General Assembly on AIDS.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214341Z" creationid="Gabri" creationdate="20230420T214341Z">
+        <seg>A &lt;f0&gt;MEDICC Review&lt;/f0&gt; reproduziu o texto completo de um discurso do vice-presidente cubano, Carlos Lage Dávilla, apresentado no início do ano na Assembleia Geral das Nações Unidas sobre AIDS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A wide-ranging prevention and treatment program, backed by strong political action, has given the Caribbean country the lowest prevalence of AIDS disease and HIV infection in the western hemisphere — and one of the lowest rates in the world.” (Cookson)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214226Z" creationid="Gabri" creationdate="20230420T214226Z">
+        <seg>Um amplo programa de prevenção e tratamento, apoiado por uma forte ação política, deu ao país caribenho a menor prevalência de AIDS e infecção de HIV no hemisfério ocidental - e uma das menores taxas no mundo." (Cookson)&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ANTI-GAY, ANTI-TRANS INQUISITION IN THE AMERICAS</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="thy" changedate="20230420T015504Z" creationid="thy" creationdate="20230420T015424Z">
         <seg>INQUISIÇÃO ANTIGAY E ANTITRANS NAS AMÉRICAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And they should turn these funds over today, not sit by while 25 million more people die.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215530Z" creationid="Gabri" creationdate="20230420T215530Z">
+        <seg>E eles deveriam angariar esses fundos hoje, não esperar sentados enquanto mais 25 milhões de pessoas morrem</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +118,210 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cuba addresses world impact</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214243Z" creationid="Gabri" creationdate="20230420T214243Z">
+        <seg>Cuba aborda o impacto mundial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuba has maintained a strong research component in the fight against AIDS, primarily through studies of the application of interferons to AIDS patients and the continued research to develop an HIV/AIDS vaccine.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214006Z" creationid="Gabri" creationdate="20230420T214006Z">
+        <seg>Cuba tem mantido um componente forte de pesquisas contra a AIDS, principalmente através de estudos de aplicação de interferons em pacientes com AIDS e da pesquisa contínua para desenvolver uma vacina contra HIV/AIDS."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuba mobilized before first diagnosis</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="domi-macaroni" changedate="20230419T215909Z" creationid="domi-macaroni" creationdate="20230419T215909Z">
         <seg>Cuba mobilized before first diagnosis abc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuba would not obtain any profits, and would pay salaries in its national currency, thus taking on the most expensive part for international health agencies, as well as the most difficult part, which is to ensure that the professionals are prepared and ready to begin their work.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215842Z" creationid="Gabri" creationdate="20230420T215842Z">
+        <seg>Cuba não teria nenhum lucro e pagaria os salários com a sua moeda nacional, de forma a assumir a parte mais dispendiosa para as agências internacionais de saúde, bem como a parte mais difícil, que é garantir que os profissionais sejam preparados e prontos para começar o trabalho."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuban government offer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215600Z" creationid="Gabri" creationdate="20230420T215600Z">
+        <seg>Oferta do governo cubano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuban participates in this Assembly as a responsible member of the international community, showing solidarity and modesty and freely offering our experience and collaboration.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214728Z" creationid="Gabri" creationdate="20230420T214728Z">
+        <seg>Cuba participa nesta Assembleia como um membro responsável da comunidade internacional, exibindo solidariedade e modéstia e oferecendo gratuitamente nossa experiência e colaboração."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dr. Byron Barksdale, director of a U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214127Z" creationid="Gabri" creationdate="20230420T214127Z">
+        <seg>Dr. Byron Barksdale, diretor de um grupo médico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General Assembly proclaim that:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215406Z" creationid="Gabri" creationdate="20230420T215406Z">
+        <seg>da ONU proclamasse que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>He stressed that, “In many African nations, the number of teachers who die from AIDS each year is greater than the number of new teachers graduating.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214459Z" creationid="Gabri" creationdate="20230420T214459Z">
+        <seg>Ele destacou que "Em muitas nações africanas o número de professores que morrem de AIDS por ano é maior do que o número de professores se formando,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In February 2003, treatment of Cubans with AIDS had greatly improved over the past two years because Cuba’s pharmaceutical industry was producing its own generic copies of anti-HIV medicines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214107Z" creationid="Gabri" creationdate="20230420T214107Z">
+        <seg>Em fevereiro de 2003, o tratamento de cubanos com AIDS havia melhorado consideravelmente ao longo dos últimos dois anos, porque a indústria farmacêutica de Cuba estava produzindo suas próprias cópias genérias de medicamentos anti-HIV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In his speech on June 25, 2001, Lage Dávila said, “No country is free of AIDS.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214404Z" creationid="Gabri" creationdate="20230420T214404Z">
+        <seg>Em seu discurso em 25 de junho de 2001, Lage Dávila disse que "Nenhum país está livre da AIDS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In its issue coinciding with International AIDS Day 2001, MEDICC Review noted, “Today, some 36 million people worldwide are infected with HIV, over 25 million of them in Africa, where most have no way to pay for the drugs that might extend their lives.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214307Z" creationid="Gabri" creationdate="20230420T214307Z">
+        <seg>Em sua edição coincidindo com o Dia Internacional da AIDS, em 2011, MEDICC Review destacou que "Hoje, aproximadamente 36 milhões de pessoas ao redor do mundo estão infectadas com HIV, mais de 25 milhões delas na África, onde a maioria é incapaz de pagar por medicamentos que possam estender suas vidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a dramatic paradox that, in this new millennium, the same continent that witnessed the appearance of humankind’s first ancestors six million years ago begins to witness the disappearance of humankind.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214539Z" creationid="Gabri" creationdate="20230420T214539Z">
+        <seg>É um paradoxo dramático que, neste milênio, o mesmo continente que testemunhou o surgimento dos primeiros ancestrais da humanidade, seis milhões de anos atrás, começa a testemunhar o desaparecimento da humanidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is incomprehensible to think that this life-saving money cannot be found in a world that spends 40 times more on illegal drugs, 80 times more on military budgets and 100 times more on advertising.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215238Z" creationid="Gabri" creationdate="20230420T215238Z">
+        <seg>É incompreensível pensar que esse dinheiro que salva vidas não pode ser encontrado em um mundo que gasta 40 vezes mais em drogas ilegais, 80 vezes mais em orçamentos militares e 100 vezes mais em propaganda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is the only country that voted against the resolution giving every individual the right to have access to AIDS medicines, while at the same time, it has unleashed an insane arms race upon the world, with the sale of the most sophisticated instruments of war to allies and followers, and its global missile shield initiative.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215329Z" creationid="Gabri" creationdate="20230420T215329Z">
+        <seg>É o único país que votou contra a resolução que daria a todos os indivíduos o direito a acesso a medicamentos contra AIDS, enquanto, ao mesmo tempo, desencadeou uma corrida armamentista insana no mundo, com a venda dos mais sofisticados instrumentos de guerra aos seus aliados e seguidores, e sua iniciativa global de escudo antimísseis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lage Dávila concluded with an offer from the Cuban government to the poorest countries and those with the highest prevalence of the illness:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215609Z" creationid="Gabri" creationdate="20230420T215609Z">
+        <seg>Lage Dávila concluiu com uma oferta do governo cubano aos países mais pobres e àqueles com a maior prevalência da doença:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lage Dávila concluded, “All it would take is for the international community to provide the raw materials for the medicines, the equipment and material resources for these products and services.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215831Z" creationid="Gabri" creationdate="20230420T215831Z">
+        <seg>Lage Dávila concluiu que "Seria apenas necessário que a comunidade internacional fornecesse as matérias-primas para os medicamentos, os equipamentos e os recursos materiais para esses produtos e serviços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lage Dávila delivered Cuba’s urging that the special session of the U.N.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215354Z" creationid="Gabri" creationdate="20230420T215354Z">
+        <seg>Lage Dávila, representando Cuba, insistiu que a sessão especial da Assembleia Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lage Dávila had offered his socialist government’s solidarity for people with AIDS, “especially those in the developing countries most affected.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214350Z" creationid="Gabri" creationdate="20230420T214350Z">
+        <seg>Lage Dávila havia oferecido a solidariedade de seu governo socialista para as pessoas com AIDS, "especialmente aquelas em países em desenvolvimento mais afetados."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lage Dávila pointed to the U.S.: “The richest and most powerful nation in history — that claims it is a human rights champion, does not make its payments to the U.N.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215306Z" creationid="Gabri" creationdate="20230420T215306Z">
+        <seg>Lage Dávila apontou para os EUA: "A nação mais rica e poderosa da história – que diz ser uma campeã dos direitos humanos, não faz seus pagamentos à ONU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lage Dávila stated, “The U.N.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214758Z" creationid="Gabri" creationdate="20230420T214758Z">
+        <seg>Lage Dávila declarou que “O Secretário Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Others — unfortunate and poor — are experiencing a terrify-ing reduction in their population’s life expectancy and a demographic decline that could lead them to extinction.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214436Z" creationid="Gabri" creationdate="20230420T214436Z">
+        <seg>Outros - os desprivilegiados e pobres - estão experienciando uma assustadora redução na expectativa de vida de suas populações e um declínio demográfico que poderia levá-los à extinção."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People cannot be allowed to make money off the lives of human beings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215430Z" creationid="Gabri" creationdate="20230420T215430Z">
+        <seg>As pessoas não podem ter a permissão de ganhar dinheiro com a vida de seres humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Secretary General has proposed — and is making a worthy and just effort to obtain — $7 to $10 billion for the fight against AIDS.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214811Z" creationid="Gabri" creationdate="20230420T214811Z">
+        <seg>da ONU propôs - e está fazendo um esforço digno e justo para obter - de 7 a 10 milhões de dólares para lutar contra a AIDS..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Solidarity proposal</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214743Z" creationid="Gabri" creationdate="20230420T214743Z">
+        <seg>Proposta de solidariedade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some — the privileged and rich — have managed to reduce the mortality rate with medicines sold at high, unreasonable prices.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214418Z" creationid="Gabri" creationdate="20230420T214418Z">
+        <seg>Alguns - os privilegiados e ricos - foram capazes de reduzir a taxa de mortalidade com medicamentos vendidos a preços altos e insensatos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +334,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That statistic is especially remarkable given Cuba’s sexually active youth and easygoing attitudes about sex.” &lt;f0&gt;MEDICC Review&lt;/f0&gt; editors explained that, “By the end of 2001, Cuba will have approved its most ambitious offensive yet against HIV/AIDS: setting up a National Task Force Against AIDS (GOPELS),” to be headed by the minister of public health and the secretary of the council of ministers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214039Z" creationid="Gabri" creationdate="20230420T213749Z">
+        <seg>Essa estatística chama a atenção sobretudo levando em conta a juventude ativamente sexual de Cuba e a atitude aberta do país com relação ao sexo." Editores da &lt;f0&gt;MEDICC Review&lt;/f0&gt; explicaram que "Ao fim de 2001, Cuba terá atingido a sua ofensiva mais ambiciosa até então contra o HIV: estabelecendo uma Força Tarefa Nacional Contra a AIDS (GOPELS)", liderada pelo ministro de saúde pública e pelo secretário do conselho de ministros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;f0&gt;Financial Times&lt;/f0&gt; — no friend to socialist construction — reported, “Cuba has much to teach the world about tackling AIDS, the American Association for the Advancement of Science heard on [Feb.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214158Z" creationid="Gabri" creationdate="20230420T214158Z">
+        <seg>O &lt;f0&gt;Financial Times&lt;/f0&gt;, nada amigável à construção socialista, reportou que "Cuba tem muito a ensinar ao mundo na luta contra a AIDS, segundo a Associação Americana para o Avanço da Ciência em 16 de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Cuban approach to AIDS saved lives, Joseph Mutti stated in June 1999.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213655Z" creationid="Gabri" creationdate="20230420T213655Z">
+        <seg>A abordagem cubana contra a AIDS salvou vidas, disse Joseph Mutti em 1999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The U.S.-led political and economic blockade of Cuba kept this offer of socialist solidarity from reaching those around the world who most needed it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215901Z" creationid="Gabri" creationdate="20230420T215901Z">
+        <seg>O bloqueio político e econômico, liderado pelos EUA, contra Cuba impediu que essa oferta de solidariedade socialista alcançasse aqueles no mundo que mais precisam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The amount is not enough and money alone cannot solve the problem, but it is a necessary start.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215212Z" creationid="Gabri" creationdate="20230420T215212Z">
+        <seg>A quantidade não é suficiente, e o dinheiro sozinho não pode resolver o problema, mas é um começo necessário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The biggest problem in dealing with AIDS on the island continued to be access to medicine for free distribution to the population because of the U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213833Z" creationid="Gabri" creationdate="20230420T213833Z">
+        <seg>O maior problema contra a AIDS na ilha continuou sendo o acesso a remédios para distribuição livre para a população devido ao bloqueio dos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The deaths in sub-Saharan Africa to date are equivalent to those that would have resulted from dropping on the region 70 bombs like the ones on Hiroshima and Nagasaki.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214526Z" creationid="Gabri" creationdate="20230420T214526Z">
+        <seg>The deaths in sub-Saharan Africa to date are equivalent to those As mortes na África Subsaariana até hoje são equivalentes às que resultariam do ato de bombardear com 70 bombas como as de Hiroshima e Nagasaki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The development of class societies and colonialism did.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="thy" changedate="20230420T015550Z" creationid="thy" creationdate="20230420T015550Z">
@@ -94,10 +398,258 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These schools could train 1,000 doctors annually in countries that need the most assistance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215714Z" creationid="Gabri" creationdate="20230420T215714Z">
+        <seg>Essas escolas poderiam treinar 1000 médicos por ano em países que mais precisam de assistência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They die with no treatment in sight.” (“Cuba’s HIV-AIDS Rate”)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214329Z" creationid="Gabri" creationdate="20230420T214329Z">
+        <seg>Elas morrem sem tratamento no horizonte." ("A taxa de HIV-AIDS de Cuba"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They have already paid more than once.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215450Z" creationid="Gabri" creationdate="20230420T215450Z">
+        <seg>Eles já pagaram mais de uma vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They will be guided by the ‘Strategic Plan for Controlling HIV/AIDS,’ outlining national strategies against the virus for the next five years.” (“Cuba’s Strategy”)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213826Z" creationid="Gabri" creationdate="20230420T213826Z">
+        <seg>Eles serão guiados pelo "Plano Estratégico para Controle do HIV", delineando estratégias nacionais contra o vírus pelos próximos cinco anos." ("A Estratégia de Cuba")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is merely a small part of their social debt to the Third World.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215544Z" creationid="Gabri" creationdate="20230420T215544Z">
+        <seg>Esta é apenas uma pequena parte da sua dívida social com o Terceiro Mundo."”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213600Z" creationid="Gabri" creationdate="20230420T213600Z">
+        <seg>O bloqueio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have the lowest AIDS rate in the Americas and one of the lowest in the world, with 0.3 percent of the population between 15 and 49 years affected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214657Z" creationid="Gabri" creationdate="20230420T214657Z">
+        <seg>Temos a menor taxa de AIDS nas Américas e uma das menores no mundo, com 0,3% da população entre 15 e 49 anos afetada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and is trying to reduce its contribution to the WHO [World Health Organization] — dedicates barely 0.2 percent of its gross domestic product to development.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215316Z" creationid="Gabri" creationdate="20230420T215316Z">
+        <seg>e está tentando reduzir suas contribuições à OMS [Organização Mundial da Saúde] – mal dedica 0,2% do seu produto interno bruto para o desenvolvimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>blockade.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213846Z" creationid="Gabri" creationdate="20230420T213846Z">
+        <seg>EUA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>embargo.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213929Z" creationid="Gabri" creationdate="20230420T213929Z">
+        <seg>EUA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>gay-bashers condemn Cuba</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="thy" changedate="20230419T225254Z" creationid="thy" creationdate="20230419T225254Z">
         <seg>dos anos 1970 condenam Cuba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>imperialist blockade obstructed Cuban AIDS treatment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215917Z" creationid="Gabri" creationdate="20230420T213611Z">
+        <seg>imperialista dos EUA obstruiu o tratamento de Cuba contra a AIDS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>medical group, said, “Cuba now produces enough anti-viral medicines for its own patients and it has offered to supply other nations in the Caribbean region.” (Cookson)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214138Z" creationid="Gabri" creationdate="20230420T214138Z">
+        <seg>dos EUA, disse que “Cuba agora produz medicamentos anti-virais suficientes para seus próprios pacientes e ofereceu fornecer para outras nações na região caribenha." (Cookson)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>pharmaceutical companies and therefore not freely available to Cuban importers under the restrictions imposed by the U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213920Z" creationid="Gabri" creationdate="20230420T213920Z">
+        <seg>Empresas farmacêuticas e, portanto, disponíveis não de graça para importadores cubanos sob as restrições impostas pelo embargo dos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rate is 1 of every 550).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213729Z" creationid="Gabri" creationdate="20230420T213729Z">
+        <seg>dos EUA é de 1 para 550).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“AIDS drugs and other vital medicines required on a large scale should not be protected by patents.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215421Z" creationid="Gabri" creationdate="20230420T215421Z">
+        <seg>"Drogas contra AIDS e outros medicamentos vitais necessários em larga escala não deveriam ser protegidos por patentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Cuba also suffers from this disease; there have been 2,565 people living with HIV/AIDS in our country, 388 of whom currently have the full-blown disease, and 896 of whom have died over the last 14 years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214601Z" creationid="Gabri" creationdate="20230420T214601Z">
+        <seg>“Cuba também sofre com essa doença; há 2565 pessoas vivendo com HIV/AIDS no nosso país, das quais 388 atualmente têm a doença em pleno desenvolvimento e 896 morreram nos últimos 14 anos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Cuba now has one of the world’s lowest rates of infection, with only one of every 1,500 persons testing HIV-positive (the U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213715Z" creationid="Gabri" creationdate="20230420T213715Z">
+        <seg>"Cuba agora tem uma das menores taxas de infecção do mundo, com apenas 1 em cada 1500 pessoas sendo diagnosticas positivo para HIV (a taxa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Earlier this year, Cuba began to manufacture its own anti-retrovirals and make them available to AIDS patients free of charge.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215938Z" creationid="Gabri" creationdate="20230420T213951Z">
+        <seg>“No início do ano, Cuba começou a produzir seus próprios anti-retrovirais e a disponibilizá-los de graça para pacientes com AIDS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Even in the face of the [U.S.] blockade, which prevents our access to 50 percent of the world’s new medicines because they are produced in the United States,” Lage Dávila stressed, “we have controlled the epidemic, and what is more, achieved a life expectancy of 76 years and an infant mortality rate of less than seven.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214713Z" creationid="Gabri" creationdate="20230420T214713Z">
+        <seg>“Mesmo em face ao bloqueio [dos EUA], que impede acesso a 50% dos novos medicamentos do mundo por serem produzidos nos Estados Unidos", Lage Dávila destacou, "nós controlamos a epidemia e, além disso, atingimos uma expectativa de vida de 76 anos e uma taxa de mortalidade infantil menor que 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“It also guarantees access to safe blood, certifying that 100 percent of blood donations are free of AIDS, hepatitis and other illnesses; voluntary testing of all pregnant women, resulting in zero mother-child transmission since 1997; and an education and prevention strategy aimed at vulnerable groups, young people and the entire population.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214639Z" creationid="Gabri" creationdate="20230420T214639Z">
+        <seg>“Também garante acesso a sangue seguro, certificando que 100% das doações de sangue sejam livres de AIDS, hepatite e outras doenças; testagem voluntárias de todas as mulheres grávidas, resultando em 0 transmissões mãe-criança desde 1997; e uma estratégia de educação e prevenção visando grupos vulneráveis, pessoas jovens e a pessoa inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“It is incomprehensible to think that this life-saving money cannot be found in a world where 20 percent of the population is responsible for 86 percent of private consumption, and where the personal fortunes of 22 people each exceed the amount the Secretary General is requesting, fortunes that in total represent 43 times his request.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215255Z" creationid="Gabri" creationdate="20230420T215255Z">
+        <seg>"É incompreensível pensar que esse dinheiro que salva vidas não pode ser encontrado em um mundo onde 20% da população é responsável por 86% do consumo privado e onde as fortunas pessoais de 22 pessoas cada superam a quantia que o Secretário Geral está solicitando, fortunas que, no total, representam 43 vezes o seu pedido."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Our program to fight AIDS,” Lage Dávila explained, “guarantees comprehensive care for people with HIV and AIDS, free anti-retroviral treatment for all, specialized medical centers for those who require them and a constant struggle for patients to achieve the fullest social integration, with all their rights and without discrimination.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214617Z" creationid="Gabri" creationdate="20230420T214617Z">
+        <seg>“Nosso programa contra a AIDS", explicou Lage Dávila, "garante cuidado abrangente para pessoas com HIV e AIDS, tratamento anti-retroviral para todos, centros médicos especializados para quem necessita e uma luta constante para que pacientes atinjam uma completa integração social, com todos seus direitos e sem discriminação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“The foreign debt of the poorest countries should be cancelled immediately and unconditionally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215441Z" creationid="Gabri" creationdate="20230420T215441Z">
+        <seg>"A dívida externa dos países mais pobres deveria ser cancelada e imediata e incondicionalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“The next Group of Seven meeting, instead of adopting a new economic liberalization to impose on the world’s poor and less fortunate, should agree to reduce their military budgets to raise at least U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215459Z" creationid="Gabri" creationdate="20230420T215459Z">
+        <seg>"O próximo encontro do Grupo dos Sete, em vez de adotar uma nova liberalização econômica para impor aos mais pobres e menos afortunados, deveria concordar em reduzir seus orçamentos militares para arrecadar os</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Their job will be to integrate prevention strategies among the various national players, including the Public Health and Education Ministries, the Federation of Cuban Women, and other government agencies and NGOs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213803Z" creationid="Gabri" creationdate="20230420T213803Z">
+        <seg>"O trabalho deles será o de integrar estratégias de prevenção entre os vários atores nacionais, incluindo os Ministros da Saúde Pública e Educação, a Federação das Mulheres Cubanas, além de outras agências governamentais e ONGS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“There is no need to elaborate further to understand that the international economic order is criminally unjust, that when the words ‘democracy,’ ‘human rights,’ ‘individual liberty,’ ‘equal opportunities’ and others come from the mouths of the powerful, they ring hollow and demagogic.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215345Z" creationid="Gabri" creationdate="20230420T215345Z">
+        <seg>"Não é necessário dizer mais nada para entender que a ordem econômica internacional é criminosamente injusta, que, quando as palavras 'democracia', 'direitos humanos', 'liberdade individual', 'igualdade de oportunidades' e outras saem da boca dos poderosos, elas soam vazias e demagógicas."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Anti-retroviral treatment for 30,000 patients.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215813Z" creationid="Gabri" creationdate="20230420T215813Z">
+        <seg>• Tratamento anti-retroviral para 30 mil pacientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Diagnostic equipment and kits necessary for basic prevention programs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215748Z" creationid="Gabri" creationdate="20230420T215748Z">
+        <seg>• Equipamentos de diagnóstico e kits necessários para programas básicos de prevenção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Doctors, teachers, psychologists and other specialists needed to assess and collaborate with campaigns to prevent AIDS and other illnesses.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215733Z" creationid="Gabri" creationdate="20230420T215733Z">
+        <seg>• Médicos, professores, psicólogos e outros especialistas necessários para avaliar e colaborar com campanhas para prevenção da AIDS e outras doenças.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Four thousand doctors and health personnel to create the necessary infrastructure to supply the population with the prescription drugs and necessary follow-up and to train a large number of specialists in their own fields, including nurses and allied health technicians.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215637Z" creationid="Gabri" creationdate="20230420T215637Z">
+        <seg>• Quatro mil médicos e profissionais de saúde para criar a infraestrutura necessária para fornecer à população os medicamentos prescritos e o acompanhamento necessário, bem como para treinar um grande número de especialistas em seus respectivos campos, incluindo enfermeiras e outros técnicos da área da saúde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>• Sufficient professors to establish 20 medical schools, many of whom could be chosen out of the 2,359 Cuban doctors who were then serving in 17 countries as part of Cuba’s Integral Health Program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215655Z" creationid="Gabri" creationdate="20230420T215655Z">
+        <seg>• Professores suficientes para estabelecer 20 escolas de medicina, muitos dos quais poderiam ser escolhidos entre os 2359 médicos cubanos que estavam servidos na época em 17 países como parte do Programa de Saúde Integral de Cuba.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
