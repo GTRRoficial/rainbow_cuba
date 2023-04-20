@@ -38,10 +38,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bodies shackled &amp; repressed</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230420T040709Z" creationid="daniel" creationdate="20230420T040709Z">
+        <seg>Corpos acorrentados e reprimidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Colonial &lt;f0&gt;p&lt;/f0&gt;eriod &lt;f1&gt;i&lt;/f1&gt;n Cuba:&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230420T040656Z" creationid="daniel" creationdate="20230420T040645Z">
+        <seg>Perído &lt;f0&gt;c&lt;/f0&gt;olonial &lt;f1&gt;e&lt;/f1&gt;m Cuba:&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Colonial period in Cuba: Bodies shackled &amp; repressed</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="daniel" changedate="20230419T210935Z" creationid="daniel" creationdate="20230419T210712Z">
         <seg>Período colonial em Cuba: Corpos acorrentados e reprimidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Colonialism, and later imperialism, brought anti-homosexual and anti-trans laws and state repression to Cuba.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230420T040801Z" creationid="daniel" creationdate="20230420T040801Z">
+        <seg>O colonialismo e, mais tarde, o imperialismo</seg>
       </tuv>
     </tu>
     <tu>
