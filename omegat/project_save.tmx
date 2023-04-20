@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luiza" changedate="20230420T022524Z" creationid="Luiza" creationdate="20230420T022524Z">
+        <seg>abcThank you!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The development of class societies and colonialism did.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="thy" changedate="20230420T015550Z" creationid="thy" creationdate="20230420T015550Z">
