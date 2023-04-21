@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="thy" changedate="20230419T225247Z" creationid="thy" creationdate="20230419T225209Z">
         <seg>Homofóbicos da Guerra Fria&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1980: Homosexuality ‘A visible feature of Cuban society’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230421T081711Z" creationid="elioneto" creationdate="20230421T081702Z">
+        <seg>1980: homossexualidade ‘Um traço visível na sociedade cubana"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1980: Homosexuality&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230421T081708Z" creationid="elioneto" creationdate="20230421T081708Z">
+        <seg>1980: homossexualidade&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>of Cuban society’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230421T081735Z" creationid="elioneto" creationdate="20230421T081735Z">
+        <seg>da sociedade cubana'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>pharmaceutical companies and therefore not freely available to Cuban importers under the restrictions imposed by the U.S.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T213920Z" creationid="Gabri" creationdate="20230420T213920Z">
@@ -778,6 +802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T222751Z" creationid="Gabri" creationdate="20230420T222751Z">
         <seg>direitos de pessoas do mesmo sexo e trans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘A visible feature&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230421T081725Z" creationid="elioneto" creationdate="20230421T081725Z">
+        <seg>‘Um traço visível&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
