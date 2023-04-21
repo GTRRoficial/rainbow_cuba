@@ -1,3 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 U.S.	Estados Unidos	Teste para Sincronização do glossário
 Commission	Comissão	Teste 2
+contraception	métodos contraceptivos	testeeee
