@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -346,6 +346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214307Z" creationid="Gabri" creationdate="20230420T214307Z">
         <seg>Em sua edição coincidindo com o Dia Internacional da AIDS, em 2011, MEDICC Review destacou que "Hoje, aproximadamente 36 milhões de pessoas ao redor do mundo estão infectadas com HIV, mais de 25 milhões delas na África, onde a maioria é incapaz de pagar por medicamentos que possam estender suas vidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the U.S., AIDS was first diagnosed in 1981.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Renan" changedate="20230421T131812Z" creationid="Renan" creationdate="20230421T131812Z">
+        <seg>Nos Estados Unidos, a AIDS foi diagnosticada primeiramente em 1981.</seg>
       </tuv>
     </tu>
     <tu>
