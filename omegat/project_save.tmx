@@ -305,8 +305,8 @@
       <tuv lang="en-US">
         <seg>Cuban women and men were fighting bravely alongside their African comrades to defend the people of Angola, Namibia and Ethiopia from colonialism and imperialism.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T085621Z" creationid="elioneto" creationdate="20230422T085621Z">
-        <seg>As mulheres e homens cubanos estavam lutando corajosamente junto com seus camaradas africanos para defender o povo da Angola, Nambibia e Etiópia do colonialismo e imperialismo.</seg>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T091139Z" creationid="elioneto" creationdate="20230422T085621Z">
+        <seg>As mulheres e homens cubanos estavam lutando corajosamente junto com seus camaradas africanos para defender o povo da Angola, Nambibia e Etiópia contra o colonialismo e imperialismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -813,6 +813,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T085908Z" creationid="Gabri" creationdate="20230420T213600Z">
         <seg>Os bancos </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U.S. banks and corporations commanded Washington not to recognize Cuba’s right to diplomatic recognition.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T091253Z" creationid="elioneto" creationdate="20230422T091253Z">
+        <seg>Os bancos e corporações dos Estados Unidos ordenaram Washintgton a não reconhecer os direitos diplomáticos de Cuba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U.S. finance capital tried to isolate and destroy the Cuban Revolution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T091206Z" creationid="elioneto" creationdate="20230422T091206Z">
+        <seg>O capital financeiro estadunidense tentou isolar e destruir a Revolução Cubana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U.S. imperialism was on the defensive, especially after its historic defeat in Vietnam and its inability to either crush or tame the Cuban Revolution.” (Marcy)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T091134Z" creationid="elioneto" creationdate="20230422T091134Z">
+        <seg>O imperialismo estadunidense estava na defensiva, principalmente após a sua derrota histórica no Vietnam e sua incapacidade de acabar ou dominar a Revolução Cubana". (Marcy)</seg>
       </tuv>
     </tu>
     <tu>
