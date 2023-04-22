@@ -169,8 +169,8 @@
       <tuv lang="en-US">
         <seg>Behind the 1980 ‘Mariel boatlift’</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T083859Z" creationid="elioneto" creationdate="20230422T083600Z">
-        <seg>Por trás do 'Êxodo de Mariel' dos anos 80</seg>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T093334Z" creationid="elioneto" creationdate="20230422T083600Z">
+        <seg>Por trás do 'Êxodo de Mariel' dos anos 80M</seg>
       </tuv>
     </tu>
     <tu>
@@ -1113,6 +1113,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“Even though living conditions were better than in any previous period and compared favorably with those in the rest of the Caribbean, there were serious problems.” They pointed out that the economy suffered under the heavy weight of the U.S. blockade and suspicious outbreaks of biological epidemics destroyed harvests of cash crops.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T093931Z" creationid="elioneto" creationdate="20230422T093340Z">
+        <seg>“Mesmo se as condições de vida estavam melhores em relação a qualquer outro período e em relação aos outros países do Caribe, havia sérios problemas". Eles salientaram que a economia sofria em razão do peso do bloqueio imposto pelos Estados Unidos e a suspeita dos surtos de epidemias biológicas destruíram a colheita das culturas comerciais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“For now,” she added, “it is sufficient to reform the Family Code, which is recognized as a branch of Cuban law.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T223315Z" creationid="Gabri" creationdate="20230420T223315Z">
@@ -1179,8 +1187,8 @@
       <tuv lang="en-US">
         <seg>“The year 1979 was an unsettled one,” Arguelles and Rich wrote.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T092930Z" creationid="elioneto" creationdate="20230422T092930Z">
-        <seg>Arguelles e Rich escreveram que "1979 foi um ano de incertezas“</seg>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T093347Z" creationid="elioneto" creationdate="20230422T092930Z">
+        <seg>Arguelles e Rich escreveram que "1979 foi um ano de incertezas".</seg>
       </tuv>
     </tu>
     <tu>
