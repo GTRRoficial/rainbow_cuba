@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>20, 2005.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023718Z" creationid="Usuário" creationdate="20230423T023702Z">
+        <seg>2005.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Granma&lt;/f0&gt; reported the following day that CENESEX had “released results of a survey on gender identity in today’s Cuban society to the committees on Education, Culture, Science, Technology and the Environment, and Youth, Children and Women’s Rights.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023821Z" creationid="Usuário" creationdate="20230423T023821Z">
+        <seg>&lt;f0&gt;O Granma&lt;/f0&gt; informou no dia seguinte que a CENESEX “divulgou os resultados de uma pesquisa sobre identidade de gênero na sociedade cubana atual aos comitês de Educação, Cultura, Ciência, Tecnologia e Meio Ambiente e Juventude, Crianças e Direitos da Mulher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;La Jornada&lt;/f0&gt; correspondent Gerardo Arreola wrote, “This discussion has become the most relevant signs of public impact on the matter since the motion picture ‘Fresa y Chocolate’ (‘Strawberry and Chocolate’) shook sectors of Cuban society in 1993 with its statement against intolerance through the story of a homosexual character.” (Arreola)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T235505Z" creationid="Usuário" creationdate="20230422T235505Z">
@@ -537,8 +553,8 @@
       <tuv lang="en-US">
         <seg>Castro Espín, as director of CENESEX, took a plan about expanding rights for transsexuals to two parliamentary committees on Dec.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023646Z" creationid="Usuário" creationdate="20230423T023646Z">
-        <seg>Castro Espín, como diretora da CENESEX, levou o plano sobre a expansão dos direitos dos transexuais para duas comissões parlamentares em dezembro.</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023714Z" creationid="Usuário" creationdate="20230423T023646Z">
+        <seg>Castro Espín, como diretora da CENESEX, levou o plano sobre a expansão dos direitos dos transexuais para duas comissões parlamentares em 20 de dezembro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2317,6 +2333,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T094230Z" creationid="elioneto" creationdate="20230422T094230Z">
         <seg>“As lésbicas e os homens gays eram os mais vulneráveis", explicam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Mariela Castro said that for people with a non-traditional gender identity to fully develop their potential as a member of society, it is first necessary to identify them so as to assure that they receive adequate specialized assistance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023914Z" creationid="Usuário" creationdate="20230423T023914Z">
+        <seg>Mariela Castro disse que para que as pessoas com uma identidade de gênero não tradicional desenvolvam plenamente seu potencial como membros da sociedade, é necessário primeiro identificá-las para garantir que recebam assistência especializada adequada.</seg>
       </tuv>
     </tu>
     <tu>
