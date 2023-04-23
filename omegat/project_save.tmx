@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2637,6 +2637,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023452Z" creationid="Usuário" creationdate="20230423T023452Z">
         <seg>“No início de 2004”, escreveu Arreola, “houve um novo impulso quando a CENESEX lançou uma estratégia nacional: aumentou e diversificou sua equipe profissional, obteve apoio do presidente Fidel Castro e contatou diretamente ministérios e organizações sociais para discutir, com base no perfil da entidade, o assunto dos transexuais”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“But this work was not without difficulties,” McCubbin says.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230423T230436Z" creationid="tcban" creationdate="20230423T230436Z">
+        <seg>"Mas esse trabalho teve suas dificuldades", diz McCubbin.</seg>
       </tuv>
     </tu>
     <tu>
