@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Granma&lt;/f0&gt;, September 18, 1988.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230424T000155Z" creationid="tcban" creationdate="20230424T000155Z">
+        <seg>&lt;f0&gt;Granma&lt;/f0&gt;, 18 de setembro, 1988.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;La Jornada&lt;/f0&gt; correspondent Gerardo Arreola wrote, “This discussion has become the most relevant signs of public impact on the matter since the motion picture ‘Fresa y Chocolate’ (‘Strawberry and Chocolate’) shook sectors of Cuban society in 1993 with its statement against intolerance through the story of a homosexual character.” (Arreola)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T235505Z" creationid="Usuário" creationdate="20230422T235505Z">
@@ -387,6 +395,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T092458Z" creationid="elioneto" creationdate="20230422T092458Z">
         <seg>Entre os anos de 1979 e 1984, antes e depois de Mariel, os estudantes Lourdes Arguelles e B. Ruby Rich entrevistaram migrantes cubanos nos Estados Unidos, Espanha, México e Porto Rico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230424T000046Z" creationid="tcban" creationdate="20230424T000046Z">
+        <seg>Bibliografia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2043,8 +2059,8 @@
       <tuv lang="en-US">
         <seg>The development of class societies and colonialism did.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="thy" changedate="20230420T015550Z" creationid="thy" creationdate="20230420T015550Z">
-        <seg>Os responsáveis foram o colonialismo e o desenvolvimento da sociedade de classes.</seg>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230424T000000Z" creationid="thy" creationdate="20230420T015550Z">
+        <seg>Os responsáveis por isso foram o colonialismo e o desenvolvimento da sociedade de classes.</seg>
       </tuv>
     </tu>
     <tu>
