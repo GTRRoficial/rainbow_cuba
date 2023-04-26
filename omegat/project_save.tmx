@@ -1868,6 +1868,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>New ways had to be found to criticize and disparage the Cuban people.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180741Z" creationid="Administrador" creationdate="20230426T180741Z">
+        <seg>Novas formas de criticar e desvalorizar o povo Cubano foram criadas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Cuban of any sex has to marry in order to have economic support, a job, a home, health care or other rights that are guaranteed to every person.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T021341Z" creationid="Usuário" creationdate="20230423T021341Z">
@@ -2472,8 +2480,8 @@
       <tuv lang="en-US">
         <seg>The drive behind the changes was the insatiable appetite for profits of the banks and corporations.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180317Z" creationid="Administrador" creationdate="20230426T180317Z">
-        <seg>A motivação por trás das mudanças era a insaciável vontade dos bancos e das grandes corporações de lucrar.</seg>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180349Z" creationid="Administrador" creationdate="20230426T180317Z">
+        <seg>A motivação por trás das mudanças era a insaciável vontade dos bancos e empresas de lucrar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2675,6 +2683,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230423T232612Z" creationid="tcban" creationdate="20230423T232612Z">
         <seg>A falsidade política deles ficou óbvia no fronte doméstico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then came the 1959 revolution.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180622Z" creationid="Administrador" creationdate="20230426T180622Z">
+        <seg>Então veio a revolução de 1959.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2961,9 @@
       <tuv lang="en-US">
         <seg>U.S. big business, including crime syndicates, organized urban Cuba into a giant brothel, super-exploiting the sexual labor of Cuban females and males, feminine and masculine, homosexual and heterosexual.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180333Z" creationid="Administrador" creationdate="20230426T180333Z">
-        <seg>big business, including crime syndicates, organized urban Cuba into a giant brothel, super-exploiting the sexual labor of Cuban females and males, feminine and masculine, homosexual and heterosexual.</seg>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180614Z" creationid="Administrador" creationdate="20230426T180333Z">
+        <seg>Grandes corporações dos Estados Unidos, incluindo os sindicatos do crime, organizaram Cuba em um grande bordel, super explorando o trabalho sexual de homens e mulheres Cubanas, femininos/feminines/femininas e maculinos/masculines, homosexual ou heterosexual. 
+.</seg>
       </tuv>
     </tu>
     <tu>
