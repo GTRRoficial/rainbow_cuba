@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Donors&lt;/f0&gt;: Gray Anderson; Mike Eilenfeldt; Sara Flounders; Mike Gimbel; Deirdre Griswold, in memory of comrade Henri Nereaux; Andre Powell, in memory of William Mena and companero Raoul; Minnie Bruce Pratt; Bill Sacks, Katy Rosen, Emma Sacks, and Malcolm Sacks; Joe Yuskaitis.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T165255Z" creationid="Administrador" creationdate="20230426T165255Z">
+        <seg>&lt;/f0&gt;Doadores:&lt;/f0&gt; Gray Anderson; Mike Eilenfeldt; Sara Flounders; Mike Gimbel; Deirdre Griswold, em memória do camarada Henri Nereaux; Andre Powell, em memória de William Mena e compañero Raoul; Minnie Bruce Pratt; Bill Sacks, Katy Rosen, Emma Sacks, e Malcolm Sacks; Joe Yuskaitis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Granma International&lt;/f0&gt;, March 19.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230424T000301Z" creationid="tcban" creationdate="20230424T000301Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T222722Z" creationid="Gabri" creationdate="20230420T222722Z">
         <seg>&lt;f0&gt;P&lt;/f0&gt;ós-Escrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Supporters&lt;/f0&gt;: Susan Elizabeth Davis, in loving memory of Bill Haislip and Marshall Yates; Lal Roohk; Gary Schaefer; Charles Twist; Gary Wilson.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T165137Z" creationid="Administrador" creationdate="20230426T165137Z">
+        <seg>&lt;/f0&gt;Apoiadores:&lt;/f0&gt; Susan Elizabeth Davis, em amorosa memória de Bill Haislip e Marshall Yates; Lal Roohk; Gary Schaefer; Charles Twist; Gary Wilson.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2543,6 +2559,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T025644Z" creationid="Usuário" creationdate="20230423T025644Z">
         <seg>Eles também concordaram em fornecer educação à Polícia Nacional Revolucionária de Cuba, incluindo um seminário sobre expressões distintas de gênero e sexualidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T165059Z" creationid="Administrador" creationdate="20230426T165059Z">
+        <seg>Eles são:</seg>
       </tuv>
     </tu>
     <tu>
