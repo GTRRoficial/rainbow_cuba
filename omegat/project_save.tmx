@@ -1251,8 +1251,8 @@
       <tuv lang="en-US">
         <seg>I owe a historical debt of gratitude to Sam Marcy, founder of Workers World Party in 1959, and party leader Dorothy “Dotty” Ballan.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T155129Z" creationid="Administrador" creationdate="20230426T155129Z">
-        <seg>Eu agora tenho uma dívida histórica de gratidão para Sam Marcy, fundador do Workers World Party em 1959 e o líder do partido, Dorothy “Dotty” Ballan.</seg>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T155614Z" creationid="Administrador" creationdate="20230426T155129Z">
+        <seg>Eu agora tenho uma dívida histórica de gratidão para Sam Marcy, fundador do Partido dos Trabalhadores do Mundo em 1959 e o líder do partido, Dorothy “Dotty” Ballan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1613,6 +1613,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T145502Z" creationid="Administrador" creationdate="20230426T145502Z">
         <seg>Lavender &amp; Red editors LeiLani Dowell e Deirdre Griswold dedicaram-se com uma meticulosa atenção política nessa série de artigos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lavender &amp; Red series segments 78-85 at www.workers.org look more closely at how Marcy and Ballan helped develop discussion and education inside Workers World Party.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T155517Z" creationid="Administrador" creationdate="20230426T155517Z">
+        <seg>Os Segmentos 78-85 da série Lavender &amp; Red em www.workers.org dá uma olhada mais de perto em como Marcy e Ballan ajudaram a desenvolver a discussão e a educação interna do Partido dos Trabalhadores do Mundo.
+</seg>
       </tuv>
     </tu>
     <tu>
