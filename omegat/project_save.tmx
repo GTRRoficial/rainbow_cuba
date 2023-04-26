@@ -1675,8 +1675,8 @@
       <tuv lang="en-US">
         <seg>Lavender &amp; Red confronts the political view, whether voiced because of demagoguery, demoralization or lack of information, that life under capitalism may be a hard road for lesbian, gay and bisexual, transgender and transsexual people — but socialism is inherently worse.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T172743Z" creationid="Administrador" creationdate="20230426T172743Z">
-        <seg>Lavender &amp; Red confrontam a visão política, seja ela expressada por demagogia, desmoralização ou falta de informações, que a vida no capitalismo  pode ser dura para lésbicas, gays, bisexuais, transegeneros e transexuais — mas o socialismo é intrinsecamente pior.</seg>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T173145Z" creationid="Administrador" creationdate="20230426T172743Z">
+        <seg>Lavender &amp; Red confrontam a visão política, seja ela expressada por demagogia, desmoralização ou falta de informações, que a vida no capitalismo pode ser dura para lésbicas, gays, bisexuais, transegeneros e transexuais — mas no socialismo é inerentemente pior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2535,6 +2535,15 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T232454Z" creationid="Usuário" creationdate="20230422T232454Z">
         <seg>A série toma emprestado o estilo popular de novelas de televisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The series offers information about little-known remarkable achievements in the Soviet Union and East Germany and carefully analyzes problems in these workers’ states, as well — both of which bolster modern revolutionary theory and practice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T172749Z" creationid="Administrador" creationdate="20230426T172749Z">
+        <seg>A série fornece informações sobre notáveis e pouco conhecidos ganhos na União Soviética e Alemanha Oriental e analisa com cuidado os problemas nesses estados operários — ambos que fortalecem  a teoria e a prática revolucionária. 
+</seg>
       </tuv>
     </tu>
     <tu>
