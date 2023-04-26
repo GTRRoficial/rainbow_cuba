@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -765,6 +765,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T015653Z" creationid="Usuário" creationdate="20230423T015653Z">
         <seg>Castro Espín enfatizou: “Então, para eles usarem preservativos, eles tem que começar a construir e definir sua masculinidade de uma maneira diferente, que não valoriza apenas seu próprio prazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Castro Espín is director of Cuba’s National Center for Sex Education (CENESEX), which has accomplished a great deal in a relatively short time to replace prejudices about same-sex love and transsexuality with positive attitudes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222223Z" creationid="Usuário" creationdate="20230426T222223Z">
+        <seg>Castro Espín é diretor do Centro Nacional de Educação Sexual de Cuba (CENESEX), que realizou muito em um tempo relativamente curto para substituir preconceitos sobre amor entre pessoas do mesmo sexo e transexualidade por atitudes positivas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,6 +3290,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>humanity to all aspects of life’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222107Z" creationid="Usuário" creationdate="20230426T222107Z">
+        <seg>revolução para todos os aspectos da vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>imperialism and its media propaganda machinery.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230423T232239Z" creationid="tcban" creationdate="20230423T232239Z">
@@ -3366,6 +3382,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T030134Z" creationid="Usuário" creationdate="20230423T030134Z">
         <seg>Trazendo a humanidade da revolução para todos os aspectos da vida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘Bringing revolution’s&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222101Z" creationid="Usuário" creationdate="20230426T222101Z">
+        <seg>Trazendo a humanidade da</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,6 +3558,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T022335Z" creationid="Usuário" creationdate="20230423T022335Z">
         <seg>“No entanto," ela enfatizou, "isso não é suficiente porque acho que nossas leis devem refletir melhor o respeito que os homossexuais merecem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“I want to bring the revolution’s humanity to those aspects of life that it hasn’t reached because of old prejudices,” Mariela Castro Espín, who has worked hard to eradicate pre-revolutionary prejudices about same-sex love, transsexuality and gender variance in Cuba, said in summer 2006.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222146Z" creationid="Usuário" creationdate="20230426T222146Z">
+        <seg>“Quero trazer a humanidade da revolução para aqueles aspectos da vida que ela não alcançou por causa de velhos preconceitos”, disse Mariela Castro Espín, que trabalhou duro para erradicar os preconceitos pré-revolucionários sobre amor entre pessoas do mesmo sexo, transexualidade e variação de gênero em Cuba, no verão de 2006.</seg>
       </tuv>
     </tu>
     <tu>
