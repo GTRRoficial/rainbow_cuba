@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3707,8 +3707,8 @@
       <tuv lang="en-US">
         <seg>These are also leading activists in the struggle for immigrant rights; women’s liberation, including reproductive rights; jobs; labor union, tenant and community organizing; education; health care and affordable housing; freedom for all U.S. political prisoners and for prisoner rights; liberation of oppressed nations; support for Cuba, and the revolutionary movement to overturn capitalism and build an economy based on planning to meet peoples’ needs.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Administrador" changedate="20230427T202007Z" creationid="Administrador" creationdate="20230427T202007Z">
-        <seg>Estes também são ativistas líderes na luta pelos direitos dos imigrantes; libertação das mulheres, incluindo direitos reprodutivos; empregos; organização sindical, inquilino e comunitária; Educação; cuidados de saúde e habitação acessível; liberdade para todos os prisioneiros políticos dos EUA e para os direitos dos prisioneiros; libertação das nações oprimidas; apoio a Cuba e o movimento revolucionário para derrubar o capitalismo e construir uma economia baseada no planejamento para atender às necessidades das pessoas.</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T235716Z" creationid="Administrador" creationdate="20230427T202007Z">
+        <seg>Estes também são líderes ativistas na luta pelos direitos dos imigrantes; libertação das mulheres, incluindo direitos reprodutivos; empregos; organização sindical, de inquilinos e comunitária; educação; plano de saúde e habitação acessível; liberdade para todos os prisioneiros políticos dos EUA e por direitos dos prisioneiros; libertação das nações oprimidas; apoio a Cuba e o movimento revolucionário para derrubar o capitalismo e construir uma economia baseada no planejamento para atender às necessidades das pessoas.</seg>
       </tuv>
     </tu>
     <tu>
