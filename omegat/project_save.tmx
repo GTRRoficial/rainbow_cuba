@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;David&lt;/f0&gt;, from New State, concludes: &lt;f1&gt;“To all justice-loving people in the U.S. and around the world, we appeal to you to join the struggle to free Fernando, René, Antonio, Ramón and Gerardo.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014205Z" creationid="Usuário" creationdate="20230427T014205Z">
+        <seg>&lt;f0&gt;David&lt;/f0&gt;, do New State, conclui: &lt;f1&gt;“Para todas as pessoas amantes da justiça nos EUA e em todo o mundo, pedimos que se juntem à luta para libertar Fernando, René, Antonio, Ramón e Gerardo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Donors&lt;/f0&gt;: Gray Anderson; Mike Eilenfeldt; Sara Flounders; Mike Gimbel; Deirdre Griswold, in memory of comrade Henri Nereaux; Andre Powell, in memory of William Mena and companero Raoul; Minnie Bruce Pratt; Bill Sacks, Katy Rosen, Emma Sacks, and Malcolm Sacks; Joe Yuskaitis.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T165255Z" creationid="Administrador" creationdate="20230426T165255Z">
@@ -198,10 +206,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Melinda&lt;/f0&gt;, a local co-founder of Code Pink in Willits, Calif., says of the Cuban Five: &lt;f1&gt;“Thank you to all who have been fighting for their survival and publicity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014114Z" creationid="Usuário" creationdate="20230427T014114Z">
+        <seg>&lt;f0&gt;Melinda&lt;/f0&gt;, co-fundadora local do Code Pink em Willits, Califórnia, diz sobre os Cinco Cubanos: &lt;f1&gt;“Obrigado a todos que têm lutado por sua sobrevivência e publicidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Monty&lt;/f0&gt;, from Jamul, Calif., stresses, &lt;f1&gt;“Please get the word out to keep up the pressure.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014150Z" creationid="Usuário" creationdate="20230427T014150Z">
+        <seg>&lt;f0&gt;Monty&lt;/f0&gt;, de Jamul, Califórnia, enfatiza&lt;f1&gt;: “Por favor, espalhe a palavra para manter a pressão”.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;P&lt;/f0&gt;ostscript</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T222722Z" creationid="Gabri" creationdate="20230420T222722Z">
         <seg>&lt;f0&gt;P&lt;/f0&gt;ós-Escrito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Robert Taylor&lt;/f0&gt;, from the Bus Riders Union/Labor Community Strategy Center, writes from Los Angeles, &lt;f1&gt;“Let’s keep the fight on to free the Cuban Five from jail!”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014139Z" creationid="Usuário" creationdate="20230427T014139Z">
+        <seg>&lt;f0&gt;Robert Taylor&lt;/f0&gt;, do Bus Riders Union/Labor Community Strategy Center, escreve de Los Angeles&lt;f1&gt;: “Vamos manter a luta para libertar os Cinco Cubanos da prisão!”&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,6 +1330,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For ideas about how to deepen this initiative, e-mail: rainbowsolidarity4cuban5@gmail.com</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014313Z" creationid="Usuário" creationdate="20230427T014313Z">
+        <seg>Para ideias sobre como aprofundar esta iniciativa, envie um e-mail para: rainbowsolidarity4cuban5@gmail.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For more information about the case of the Cuban Five, visit freethefiveny.org or freethefive.org.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014246Z" creationid="Usuário" creationdate="20230427T014246Z">
+        <seg>Para mais informações sobre o caso dos Cinco Cubanos, visite freethefiveny.org ou freethefive.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For more than 300 years, Spanish colonialism shack led the laboring population of Cuba, literally claiming ownership of the lives, labor and bodies of millions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="daniel" changedate="20230423T144447Z" creationid="daniel" creationdate="20230423T144447Z">
@@ -1426,6 +1474,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Help us in outreach, education and organizing, because once people know the facts of the case, we are sure they will call for their freedom as well.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014219Z" creationid="Usuário" creationdate="20230427T014219Z">
+        <seg>Ajude-nos na divulgação, educação e organização, porque uma vez que as pessoas conheçam os fatos do caso, temos certeza de que elas também pedirão sua liberdade.”&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Historian Amara Das Wilhelm added, “Similar disparaging attitudes toward homosexuals were expressed in a 1791 Havana newspaper article entitled ‘A Critical Letter About the Man-Woman,’ which condemned the effeminate sodomites that apparently thrived in eighteenth-century Havana.” (The Gay and Lesbian Vaishnava Association online)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="daniel" changedate="20230423T153929Z" creationid="daniel" creationdate="20230423T153929Z">
@@ -1518,6 +1574,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T223159Z" creationid="Usuário" creationdate="20230426T223159Z">
         <seg>Acredito que essa noção tem que fazer parte da batalha cultural e política, porque isso significaria um fortalecimento cultural, social e político para a Revolução Cubana.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I greatly appreciate your work in supporting the Five, and I know the Five and their families also greatly appreciate your beautiful efforts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014054Z" creationid="Usuário" creationdate="20230427T014054Z">
+        <seg>Eu aprecio muito o seu trabalho em apoiar os Cinco, e eu sei que os Cinco e suas famílias também apreciam muito seus belos esforços.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have learned so much from him.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014029Z" creationid="Usuário" creationdate="20230427T014029Z">
+        <seg>Aprendi muito com ele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,6 +2768,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you!!!!!!”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014057Z" creationid="Usuário" creationdate="20230427T014057Z">
+        <seg>Obrigado!!!!!!”&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thanks to Janet Mayes for creating the index.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T150227Z" creationid="Administrador" creationdate="20230426T150227Z">
@@ -2804,6 +2884,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T022808Z" creationid="Usuário" creationdate="20230423T022808Z">
         <seg>A FMC formou o Grupo de Trabalho em 1972; a CENESEX foi criada em 1989.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Five are examples for the world, just as the Cuban Revolution has always been an example for the world.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014038Z" creationid="Usuário" creationdate="20230427T014038Z">
+        <seg>Os Cinco são exemplos para o mundo, assim como a Revolução Cubana sempre foi um exemplo para o mundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3277,6 +3365,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230423T232325Z" creationid="tcban" creationdate="20230423T232325Z">
         <seg>Eles querem esmagar a revolução e voltar a escravizar a população inteira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They will be freed.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014117Z" creationid="Usuário" creationdate="20230427T014117Z">
+        <seg>Eles serão libertados.”&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
