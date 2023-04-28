@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Jay&lt;/f0&gt;, from Shrewsbury, England, emphasizes, &lt;f1&gt;“It’s about time they were out of there and back home.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002643Z" creationid="Usuário" creationdate="20230428T002643Z">
+        <seg>&lt;f0&gt;Jay&lt;/f0&gt;, de Shrewsbury, Inglaterra, enfatiza&lt;f1&gt;: “Já era hora de eles saírem de lá e voltarem para casa”.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Joan&lt;/f0&gt;, from Brooklyn, N.Y.: &lt;f1&gt;“I have long been outraged by the terrible injustice of their situation.”&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002448Z" creationid="Usuário" creationdate="20230428T002448Z">
@@ -302,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Richard&lt;/f0&gt; from Wappingers Falls, N.Y., states, &lt;f1&gt;“It is wrong, it is immoral and unjust what the U.S. is doing to these five men.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002617Z" creationid="Usuário" creationdate="20230428T002617Z">
+        <seg>&lt;f0&gt;Richard&lt;/f0&gt; de Wappingers Falls, NY, afirma&lt;f1&gt;: “É errado, é imoral e injusto o que os EUA estão fazendo com esses cinco homens”.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Robert Taylor&lt;/f0&gt;, from the Bus Riders Union/Labor Community Strategy Center, writes from Los Angeles, &lt;f1&gt;“Let’s keep the fight on to free the Cuban Five from jail!”&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014139Z" creationid="Usuário" creationdate="20230427T014139Z">
         <seg>&lt;f0&gt;Robert Taylor&lt;/f0&gt;, do Bus Riders Union/Labor Community Strategy Center, escreve de Los Angeles&lt;f1&gt;: “Vamos manter a luta para libertar os Cinco Cubanos da prisão!”&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Sandy&lt;/f0&gt;, from Paterson, N.J., says, &lt;f1&gt;“This is a miscarriage of justice.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002658Z" creationid="Usuário" creationdate="20230428T002658Z">
+        <seg>&lt;f0&gt;Sandy&lt;/f0&gt;, de Paterson, Nova Jersey, diz: &lt;f1&gt;“Isso é um erro da justiça”.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1606,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230425T094204Z" creationid="elioneto" creationdate="20230425T094204Z">
         <seg>Para alguns cubanos gays (principalmente para os homens), a emigração oferecia um aspecto no nível sexuam muito maior que em Cuba, que pensavam nunca ser possível".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the last half century they have resisted the most powerful slave-master in history, just 90 miles from their shores.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002822Z" creationid="Usuário" creationdate="20230428T002822Z">
+        <seg>Durante os últimos 50 anos, eles resistiram ao mais poderoso senhor de escravos da história, a apenas150 kilometros de suas costas.</seg>
       </tuv>
     </tu>
     <tu>
