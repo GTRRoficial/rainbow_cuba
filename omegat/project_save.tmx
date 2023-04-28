@@ -640,8 +640,8 @@
       <tuv lang="en-US">
         <seg>Arguelles and Rich explained: “Even in the Havana of the 1950s, everyday life was not easy for the working-class or petty-bourgeois homosexual.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T021731Z" creationid="tcban" creationdate="20230428T021634Z">
-        <seg>Arguelles e Rich explicaram: "Mesmo na Havana da década de 1950, a vida cotidiana não era fácil para os homossexuais das classes trabalhadora e pequeno-burguesa.</seg>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T022229Z" creationid="tcban" creationdate="20230428T021634Z">
+        <seg>Arguelles e Rich explicam: "Mesmo na Havana da década de 1950, a vida cotidiana não era fácil para os homossexuais das classes trabalhadora e pequeno-burguesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T094207Z" creationid="elioneto" creationdate="20230422T094207Z">
         <seg>Arguelles e Rich afirmaram: "As visitas dos 'primos estadunidenses' aumentaram o desejo de consumo e aumentou a eficácia da propaganda contrarevolucionária."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arguelles and Rich noted: “Apart from employment realities, social pressures made thousands of pre-revolutionary homosexuals part of this underworld.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T022325Z" creationid="tcban" creationdate="20230428T022136Z">
+        <seg>Arguelles e Rich notam: "Fora das realidades profissionais, as pressões sociais empurraram milhares de homossexuais pré-revolução para esse submundo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1617,6 +1625,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Even homosexuals such as students (who were differently placed) were integrated into this subculture through the bars that they frequented: the St. Michel, the Dirty Dick, El Gato Tuerto.” Most of these bars were owned by crime syndicates.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T022535Z" creationid="tcban" creationdate="20230428T022535Z">
+        <seg>Mesmo homossexuais como estudantes (Que frequentavam outros ambientes) foram integrados a essa subcultura através dos bares que eles frequentavam: o St. Michel, o Dirty Dick, El Gato Tuerto." A maioria desses bares pertencia a sindicatos do crime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Even the estimates of how many homosexual Cubans left from Mariel in 1980 demonstrate political manipulation by the U.S. government.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230425T113937Z" creationid="elioneto" creationdate="20230425T113937Z">
@@ -2342,8 +2358,8 @@
       <tuv lang="en-US">
         <seg>In the towns and villages, sexuality, gender and the organization of the sexes were in the servitude of patriarchal agricultural servitude; in the urban capital, they were employed to meet the needs of patriarchal capitalist wage slavery.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T021652Z" creationid="tcban" creationdate="20230428T021600Z">
-        <seg>Nas cidades e vilas, a sexualidade, o gênero e a organização dos sexos serviam aos patriarcas da agricultura; na capital urbana, eles foram empregados a serviço das necessidades dos patriarcas da escravidão assalariada capitalista.</seg>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T022222Z" creationid="tcban" creationdate="20230428T021600Z">
+        <seg>Nas cidades e vilas, a sexualidade, o gênero e a organização dos sexos serviam aos patriarcas agricultores; na capital urbana, eles foram empregados a serviço das necessidades dos patriarcas da escravidão assalariada capitalista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,8 +4163,8 @@
       <tuv lang="en-US">
         <seg>The two researchers added that the illegal prostitution industry was also created for the patriarchs and scions of the Cuban elite, who sought feminine male-bodied youth and adults.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T021345Z" creationid="tcban" creationdate="20230428T021345Z">
-        <seg>As duas pesquisadoras adicionaram que a indústria de prostituição ilegal também foi criada para os patriarcas e herdeiros da elite cubana, que buscavam jovens e adultos femininos mas com corpo masculino.</seg>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T022203Z" creationid="tcban" creationdate="20230428T021345Z">
+        <seg>As duas pesquisadoras complementam que a indústria de prostituição ilegal também foi criada para os patriarcas e herdeiros da elite cubana, que buscavam jovens e adultos femininos mas com corpo masculino.</seg>
       </tuv>
     </tu>
     <tu>
