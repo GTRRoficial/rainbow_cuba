@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arguelles and Rich explained: “Even in the Havana of the 1950s, everyday life was not easy for the working-class or petty-bourgeois homosexual.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T021731Z" creationid="tcban" creationdate="20230428T021634Z">
+        <seg>Arguelles e Rich explicaram: "Mesmo na Havana da década de 1950, a vida cotidiana não era fácil para os homossexuais das classes trabalhadora e pequeno-burguesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arguelles and Rich noted, “The visits of ‘the American cousins’ increased consumer envy and added to the effectiveness of counter-revolutionary propaganda.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T094207Z" creationid="elioneto" creationdate="20230422T094207Z">
@@ -2326,8 +2334,8 @@
       <tuv lang="en-US">
         <seg>In the towns and villages, sexuality, gender and the organization of the sexes were in the servitude of patriarchal agricultural servitude; in the urban capital, they were employed to meet the needs of patriarchal capitalist wage slavery.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T021600Z" creationid="tcban" creationdate="20230428T021600Z">
-        <seg>Nas cidades e vilas, a sexualidade, o gênero e a organização dos sexos serviam aos patriarcas da agricultura; na capital urbana, eles foram empregados a serviço das necessidades dos patriarcas capitalistas da escravidão assalariada. </seg>
+      <tuv lang="pt-BR" changeid="tcban" changedate="20230428T021652Z" creationid="tcban" creationdate="20230428T021600Z">
+        <seg>Nas cidades e vilas, a sexualidade, o gênero e a organização dos sexos serviam aos patriarcas da agricultura; na capital urbana, eles foram empregados a serviço das necessidades dos patriarcas da escravidão assalariada capitalista.</seg>
       </tuv>
     </tu>
     <tu>
