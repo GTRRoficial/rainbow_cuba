@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;Joan&lt;/f0&gt;, from Brooklyn, N.Y.: &lt;f1&gt;“I have long been outraged by the terrible injustice of their situation.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002448Z" creationid="Usuário" creationdate="20230428T002448Z">
+        <seg>&lt;f0&gt;Joan&lt;/f0&gt;, do Brooklyn, Nova York: &lt;f1&gt;“Há muito tempo estou indignada com a terrível injustiça da situação deles”.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Joan&lt;/f0&gt;, from St. Paul, Minn.: &lt;f1&gt;“I have written Fernando Gonzáles approximately twice a week since March of 2003.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T014546Z" creationid="Usuário" creationdate="20230427T014546Z">
@@ -234,6 +242,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T235505Z" creationid="Usuário" creationdate="20230422T235505Z">
         <seg>O correspondente do&lt;f0&gt; La Jornada&lt;/f0&gt;, Gerardo Arreola, escreveu: “Esta discussão tornou-se o sinal mais relevante de impacto público sobre o assunto desde que o filme ‘Fresa y Chocolate’ (‘Morango e Chocolate’) abalou setores da sociedade cubana em 1993 com sua declaração contra a intolerância através da história de um personagem homossexual.” (Arreola)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Larry&lt;/f0&gt; of the Scottish Socialist Freedom Movement: &lt;f1&gt;“It is time these Cubans had a fair trial and it is recognized they were protecting their homeland from U.S.-sponsored terrorism.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002517Z" creationid="Usuário" creationdate="20230428T002517Z">
+        <seg>&lt;f0&gt;Larry&lt;/f0&gt;, do Movimento pela Liberdade Socialista Escocês: &lt;f1&gt;“É hora desses cubanos terem um julgamento justo e é reconhecido que eles estavam protegendo sua pátria do terrorismo patrocinado pelos EUA”.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Lynda&lt;/f0&gt;, from Elk, Calif.: &lt;f1&gt;“Please add my name to the call to free the Cuban 5 (I am a lesbian).”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002415Z" creationid="Usuário" creationdate="20230428T002415Z">
+        <seg>&lt;f0&gt;Lynda&lt;/f0&gt;, de Elk, Califórnia. &lt;f1&gt;“Por favor, adicione meu nome à chamada para libertar os 5 cubanos (eu sou lésbica).”&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +314,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T165137Z" creationid="Administrador" creationdate="20230426T165137Z">
         <seg>&lt;/f0&gt;Apoiadores:&lt;/f0&gt; Susan Elizabeth Davis, em amorosa memória de Bill Haislip e Marshall Yates; Lal Roohk; Gary Schaefer; Charles Twist; Gary Wilson.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Tami Starlight&lt;/f0&gt;, director of Trans Action Canada: &lt;f1&gt;“I support this fully!”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002403Z" creationid="Usuário" creationdate="20230428T002403Z">
+        <seg>&lt;f0&gt;Tami Starlight&lt;/f0&gt;, diretor da Trans Action Canada: &lt;f1&gt;“Eu apoio isso totalmente!”&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;f0&gt;Tim&lt;/f0&gt;: &lt;f1&gt;“My partner and I are with you 100 percent.”&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002430Z" creationid="Usuário" creationdate="20230428T002430Z">
+        <seg>&lt;f0&gt;Tim&lt;/f0&gt;: &lt;f1&gt;“Meu parceiro e eu estamos com você 100%.”&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,6 +2554,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T173927Z" creationid="Administrador" creationdate="20230426T173927Z">
         <seg>Marx e seu camarada Frederick Engels escreveram e organizaram o apoio às lutas para a libertação do povos oprimidos pela escravidão e colonialismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Matt Bernstein Syc&lt;f0&gt;a&lt;/f0&gt;more, editor “Nobody Passes,” San Francisco, Calif.; Cianán Russell, chair of the Indiana Transgender Rights Advocacy Alliance; and the Winona Gender Mutiny Collective.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T002354Z" creationid="Usuário" creationdate="20230428T002354Z">
+        <seg>Matt Bernstein Syc, editor&lt;f0&gt; de&lt;/f0&gt; “Nobody Passes”, São Francisco, Califórnia.; Cianán Russell, presidente da Indiana Transgender Rights Advocacy Alliance; e o Winona Gender Mutiny Collective.</seg>
       </tuv>
     </tu>
     <tu>
