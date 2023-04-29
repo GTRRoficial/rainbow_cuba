@@ -712,8 +712,8 @@
       <tuv lang="en-US">
         <seg>As a full-time labor organizer after 1912, Capetillo traveled extensively, particularly to Havana, Tampa and New York because they were hubs of the tobacco workers’ movement.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="daniel" changedate="20230429T011424Z" creationid="daniel" creationdate="20230423T155958Z">
-        <seg>Depois de 1912, como organizadora do movimento de trabalhadores em tempo integral, Capetillo viajou extensivamente, em especial para Havana, Tampa e Nova Iorque, os centros do movimento de trabalhadores do tabaco.</seg>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230429T011956Z" creationid="daniel" creationdate="20230423T155958Z">
+        <seg>Depois de 1912, como sindicalista em tempo integral, Capetillo viajou extensivamente, em especial para Havana, Tampa e Nova Iorque, os centros do movimento de trabalhadores do tabaco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3219,6 +3219,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T232400Z" creationid="Usuário" creationdate="20230422T232400Z">
         <seg>A liderança revolucionária cubana trouxe a batalha contra a AIDS e os preconceitos sexuais — incluindo atitudes preconceituosas sobre a bissexualidade — para as telinhas da TV popular, bem como para as telonas da cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revolutionary Puerto Rican trade unionist Luisa Capetillo on the day of her arrest in Havana on cross-dressing charges.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230429T012119Z" creationid="daniel" creationdate="20230429T012119Z">
+        <seg>Sindicalista revolucionária porto-riquenha Luisa Capetillo no dia de sua prisão em Havana sob acusações de travestismo.</seg>
       </tuv>
     </tu>
     <tu>
