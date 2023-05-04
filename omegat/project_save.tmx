@@ -1515,8 +1515,16 @@
       <tuv lang="en-US">
         <seg>Cuba brought science, not scapegoating, to AIDS care</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="leila" changedate="20230504T203454Z" creationid="leila" creationdate="20230504T203454Z">
-        <seg>Cuba trouxe ciência, não culpabilização, para a assistência à AIDS</seg>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230504T203608Z" creationid="leila" creationdate="20230504T203454Z">
+        <seg>Cuba trouxe ciência, não culpabilização, para o cuidado da AIDS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuba brought science, not&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230504T203535Z" creationid="leila" creationdate="20230504T203535Z">
+        <seg>Cuba trouxe ciência, não</seg>
       </tuv>
     </tu>
     <tu>
@@ -1541,6 +1549,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T222735Z" creationid="Gabri" creationdate="20230420T222735Z">
         <seg>Cuba ultrapassa o mundo em&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuba tried to isolate the spread of AIDS as soon as the epidemic appeared in the island population, explained then-Cuban Deputy Public Health Minister Hector Terry in 1987.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230504T205039Z" creationid="leila" creationdate="20230504T205039Z">
+        <seg>Cuba buscou conter a propagação da AIDS assim que a epidemia surgiu na população da ilha, explicou o então vice-ministro da Saúde Pública Hector Terry em 1987.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5647,6 +5663,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T222751Z" creationid="Gabri" creationdate="20230420T222751Z">
         <seg>direitos de pessoas do mesmo sexo e trans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>scapegoating, to AIDS care</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230504T203620Z" creationid="leila" creationdate="20230504T203557Z">
+        <seg>culpabilização, para o cuidado da AIDS</seg>
       </tuv>
     </tu>
     <tu>
