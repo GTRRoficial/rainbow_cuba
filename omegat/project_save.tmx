@@ -1547,8 +1547,8 @@
       <tuv lang="en-US">
         <seg>Cuba attempted to quarantine the spread of the epidemic based on a scientific approach to a medical emergency, without using scapegoating to isolate people with AIDS.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="leila" changedate="20230504T212926Z" creationid="leila" creationdate="20230504T212843Z">
-        <seg>Cuba buscou conter a propagação da epidemia baseada na abordagem científica para emergências médicas, sem culpabilização para isolar pessoas com AIDS.</seg>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230504T232041Z" creationid="leila" creationdate="20230504T212843Z">
+        <seg>Cuba buscou conter a propagação da epidemia baseada na abordagem científica para emergências médicas, sem a culpabilização que isola pessoas com AIDS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5959,6 +5959,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T174530Z" creationid="Administrador" creationdate="20230426T174530Z">
         <seg>Gênero e Dominação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘Information without sensationalism’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230504T231841Z" creationid="leila" creationdate="20230504T231827Z">
+        <seg>‘Informação sem sensacionalismo’</seg>
       </tuv>
     </tu>
     <tu>
