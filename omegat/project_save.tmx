@@ -4608,6 +4608,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The movie tells the story of two young Cuban men — a heterosexual communist and a homosexual.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T023213Z" creationid="antbs" creationdate="20230506T023213Z">
+        <seg>O filme conta a história de dois jovens cubanos - um comunista heterossexual e um homossexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The newsletter “Diversity” (Diversidad) reported: “The measure would complement the present Identity Law that already acknowledges the right of citizens to change name and sexual identity.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T024435Z" creationid="Usuário" creationdate="20230423T024435Z">
@@ -6109,16 +6117,16 @@
       <tuv lang="en-US">
         <seg>‘Strawberry &amp; Chocolate’: the sweet taste of change</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T015208Z" creationid="antbs" creationdate="20230506T015208Z">
-        <seg>"Morango e Chocolate": o doce sabor da mudança</seg>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T022833Z" creationid="antbs" creationdate="20230506T015208Z">
+        <seg>'Morango e Chocolate': o doce sabor da mudança</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>‘Strawberry &amp; Chocolate’:&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T015237Z" creationid="antbs" creationdate="20230506T015237Z">
-        <seg>"Morango e Chocolate"</seg>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T022843Z" creationid="antbs" creationdate="20230506T015237Z">
+        <seg>'Morango e Chocolate'</seg>
       </tuv>
     </tu>
     <tu>
