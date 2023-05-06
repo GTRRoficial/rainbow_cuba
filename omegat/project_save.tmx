@@ -1795,8 +1795,8 @@
       <tuv lang="en-US">
         <seg>Dr. Hector Terry emphasized in 1987, “We are treating the patients medically to maintain their present state of good health.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="leila" changedate="20230505T153545Z" creationid="leila" creationdate="20230505T153545Z">
-        <seg>O Dr. Hector Terry enfatizou em 1987, “Estamos tratando medicamente os pacientes, a fim de manter seu atual estado de saúde bom.</seg>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T144252Z" creationid="leila" creationdate="20230505T153545Z">
+        <seg>O Dr. Hector Terry enfatizou em 1987, “Estamos tratando medicamente os pacientes, a fim de que mantenham-se sadios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5659,6 +5659,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We’ll be trying to get this equipment into all the country’s blood banks next year, and in all the hygiene and epidemiology centers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T144924Z" creationid="leila" creationdate="20230506T144924Z">
+        <seg>Planejamos entregar esse equipamento em todos os bancos de sangue do país no ano que vem e em todos os centros de higiene e epidemiologia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We’ve been using state agencies and all the ministries a lot, organizing conferences for all the workers in certain ministries, especially those in the high-risk areas.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="leila" changedate="20230505T160807Z" creationid="leila" creationdate="20230505T160807Z">
@@ -6349,8 +6357,8 @@
       <tuv lang="en-US">
         <seg>“Here we have the SUMA group, which is developing Cuban technology to do mass-scale diagnostic testing.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="leila" changedate="20230505T172038Z" creationid="leila" creationdate="20230505T172038Z">
-        <seg>“Nós temos aqui o grupo SUMA, que está desenvolvendo uma tecnologia cubana para testes diagnósticos em grande escala.</seg>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T144553Z" creationid="leila" creationdate="20230505T172038Z">
+        <seg>“Nós temos aqui o grupo SUMA, que está desenvolvendo uma tecnologia cubana de testes diagnósticos em grande escala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6661,8 +6669,8 @@
       <tuv lang="en-US">
         <seg>“The sanatorium was similar to a large housing complex where all who chose to live there had 24-hour health care, the option of having family members, even a dog or a cat stay with them.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="leila" changedate="20230506T143456Z" creationid="leila" creationdate="20230504T224647Z">
-        <seg>“O sanatório era similar a um grande complexo habitacional, onde todas as pessoas que escolhem viver ali têm cuidados médicos 24 horas, a opção de receber familiares - até um cão ou gato podem ficar.</seg>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T143710Z" creationid="leila" creationdate="20230504T224647Z">
+        <seg>“O sanatório era similar a um grande complexo habitacional, onde todas as pessoas que escolhem viver ali têm cuidados médicos 24 horas, a opção de receber familiares e até seus cães ou gatos podem ficar.</seg>
       </tuv>
     </tu>
     <tu>
