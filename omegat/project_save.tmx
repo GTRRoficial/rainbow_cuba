@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4178,8 +4178,8 @@
       <tuv lang="en-US">
         <seg>Terry stressed of Cubans living in the sanatoria, “They visit their families at home, go out on pass; their families visit them, every day.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="leila" changedate="20230504T211401Z" creationid="leila" creationdate="20230504T211401Z">
-        <seg>Sobre os cubanos nos sanatórios, Terry salientou: “Visitam seus familiares em casa, saem sob permissão; as famílias vêm para visitas, todos os dias.</seg>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T142755Z" creationid="leila" creationdate="20230504T211401Z">
+        <seg>Sobre os cubanos nos sanatórios, Terry salientou: “Visitam seus familiares em casa, saem sob permissão; as famílias vêm para visitas todos os dias.</seg>
       </tuv>
     </tu>
     <tu>
