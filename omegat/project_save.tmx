@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2432,6 +2432,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T022921Z" creationid="Usuário" creationdate="20230423T022921Z">
         <seg>Em 1988, a primeira cirurgia de redesignação sexual — de homem para mulher — foi realizada com sucesso em Cuba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In 1993, the Cuban state sponsored a ground-breaking movie, “Strawberry and Chocolate” (Fresa y chocolate).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T015731Z" creationid="antbs" creationdate="20230506T015731Z">
+        <seg>Em 1993, o Estado cubano patrocinou um </seg>
       </tuv>
     </tu>
     <tu>
@@ -5971,6 +5979,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>the sweet taste of change</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T015304Z" creationid="antbs" creationdate="20230506T015304Z">
+        <seg>o doce sabor da mudança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>the way on sexual rights</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T000046Z" creationid="Usuário" creationdate="20230423T000046Z">
@@ -6087,6 +6103,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180939Z" creationid="Administrador" creationdate="20230426T180939Z">
         <seg>‘Novo homem’, ‘nova mulher’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘Strawberry &amp; Chocolate’: the sweet taste of change</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T015208Z" creationid="antbs" creationdate="20230506T015208Z">
+        <seg>"Morango e Chocolate": o doce sabor da mudança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>‘Strawberry &amp; Chocolate’:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T015237Z" creationid="antbs" creationdate="20230506T015237Z">
+        <seg>"Morango e Chocolate"</seg>
       </tuv>
     </tu>
     <tu>
