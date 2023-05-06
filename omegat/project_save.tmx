@@ -1737,10 +1737,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>David is the young communist.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T023529Z" creationid="antbs" creationdate="20230506T023529Z">
+        <seg>David é o jovem comunista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defend Cuba!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T012425Z" creationid="Usuário" creationdate="20230427T012425Z">
         <seg>Defendam Cuba!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diego, the homosexual, West writes, “leaves in spite of his pro-Revolution sympathies and his friend’s claim that there is a place for gays in the Cuban Revolution.” (West)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230506T025157Z" creationid="antbs" creationdate="20230506T025157Z">
+        <seg>Segundo West, Diego, o homossexual, "deixa o país, apesar de sua simpatia pró-Revolução e da afirmação de seu amigo de que há lugar para gays na Revolução Cubana". (West)</seg>
       </tuv>
     </tu>
     <tu>
