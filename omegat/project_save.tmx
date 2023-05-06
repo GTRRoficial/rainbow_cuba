@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Aguilera)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T152554Z" creationid="leila" creationdate="20230506T152554Z">
+        <seg>(Aguilera)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Cuban News Agency)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T223001Z" creationid="Gabri" creationdate="20230420T223001Z">
@@ -1579,8 +1587,8 @@
       <tuv lang="en-US">
         <seg>Cuba began an out-patient pilot reintegration project in 1993 that proved successful.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="leila" changedate="20230506T152543Z" creationid="leila" creationdate="20230506T152543Z">
-        <seg>Cuba iniciou um projeto piloto de reintegração de pacientes de ambulatório em 1993 que se mostrou bem-sucedido.</seg>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T152750Z" creationid="leila" creationdate="20230506T152543Z">
+        <seg>Cuba iniciou um projeto piloto de reintegração com pacientes de ambulatório em 1993 que se mostrou bem-sucedido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5373,6 +5381,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T164049Z" creationid="Administrador" creationdate="20230426T164049Z">
         <seg>De uma visão panorâmica, esses que trabalharam juntos para trazer esse livro para suas mãos, já falam muito sobre o Partido dos Trabalhadores do Mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those who left the sanatoria received ambulatory care that included regular doctor’s care, visits to specialists and dietary supplements — all free.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="leila" changedate="20230506T153034Z" creationid="leila" creationdate="20230506T153034Z">
+        <seg>Aqueles que deixavam os sanatórios recebiam cuidados ambulatoriais, que incluíam cuidados médicos regulares, visitas a especialistas e suplementos alimentares — todos gratuitos.</seg>
       </tuv>
     </tu>
     <tu>
