@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -498,6 +498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230508T111451Z" creationid="PC" creationdate="20230508T111451Z">
         <seg>Ativista Sonja de Vries — criada em Amesterdão e agora vivendo e se organizando em Kentucky — escreveu e realizou o documentário, o que serviu como um golpe contra o bloqueio político de Cuba pelos Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activist Sonja de Vries — raised in Amsterdam and now living and organizing in Kentucky — wrote and directed the documentary, which objectively struck a blow against the political blockade of Cuba by U.S. imperialism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230508T121259Z" creationid="PC" creationdate="20230508T121259Z">
+        <seg>Ativista Sonja de Vries — criada em Amesterdão e atualmente morando e se organizando em Kentucky — escreveu e realizou o documentário, o que serviu como golpe contra o bloqueio político de Cuba pelo imperialismo estadunidense.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6485,8 +6493,8 @@
       <tuv lang="en-US">
         <seg>“Gay Cuba” is a series of interviews — a radio host and a singer/poet, an artist and a gay male elected union general secretary, a feminine male factory worker and a journalist, an HIV-positive doctor and an interpreter, soldiers and teenaged law students — who offer personal anecdotes and individual observations about attitudes towards same-sex love in Cuba.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230508T114513Z" creationid="PC" creationdate="20230508T114403Z">
-        <seg>“Gay Cuba” é uma série de entrevistas — um radialista e uma cantora/poeta, um artista e um homem gay eleito secretário geral de um sindicato, a feminine male factory worker and a journalist, an HIV-positive doctor and an interpreter, soldiers and teenaged law students — who offer personal anecdotes and individual observations about attitudes towards same-sex love in Cuba.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230508T121737Z" creationid="PC" creationdate="20230508T114403Z">
+        <seg>“Gay Cuba” é uma série de entrevistas — um radialista e uma cantora/poeta, um artista e um homem gay eleito secretário geral de um sindicato, um operário feminino e uma jornalista, um médico soropositivo e uma intérprete, soldados e jovens estudantes de direito — que oferecem anedotas pessoais e observações individuais em relação às atitudes para com o amor entre pessoas do mesmo sexo em Cuba.</seg>
       </tuv>
     </tu>
     <tu>
