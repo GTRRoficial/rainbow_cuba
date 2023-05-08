@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5485,6 +5485,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T223516Z" creationid="Gabri" creationdate="20230420T223516Z">
         <seg>Vinte e quatro pessoas transexuais de Cuba, que receberam apoio do CENESEX desde 1979, solicitaram cirurgia..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two Cuban-backed documentaries about changing attitudes on the island towards same-sex love and gender variance — which in turn deepened that change — opened in theaters on the island in the mid-1990s.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230508T110757Z" creationid="PC" creationdate="20230508T110757Z">
+        <seg>Dois documentários fundados por cubanos sobre as mudanças graduais de atitude para com o amor entre pessoas do mesmo sexo e pessoas com identidades de gênero fora da norma — o que, por sua vez, aprofundou essas mudanças — estreou nos cinemas cubanos em décadas dos anos noventa.</seg>
       </tuv>
     </tu>
     <tu>
