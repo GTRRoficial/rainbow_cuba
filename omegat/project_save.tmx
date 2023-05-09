@@ -3141,6 +3141,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I’ve got to think about these things.” Aramis added, “So we hugged, and I stayed.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230509T085233Z" creationid="antbs" creationdate="20230509T085233Z">
+        <seg>Eu tenho que pensar sobre essas coisas." Aramis acrescentou: "Então ele me abraçou, e eu fiquei".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jailing heroes and supporting terror, while pretending to do the opposite, is sadly all the public can count on from ‘our’ hypocritical, double-speaking, global corporate-run excuse for a ‘by and for the people’ government.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230502T172454Z" creationid="Administrador" creationdate="20230502T172454Z">
@@ -6195,10 +6203,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can stay.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230509T085110Z" creationid="antbs" creationdate="20230509T085110Z">
+        <seg>Pode ficar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don’t have to cut your hair.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230509T085122Z" creationid="antbs" creationdate="20230509T085122Z">
+        <seg>Não tem que cortar o cabelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will find no condemnation of the Cuban Revolution in this book.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230427T173148Z" creationid="Administrador" creationdate="20230427T173148Z">
         <seg>Você não vai achar nenhuma fala contra a revolução cubana nesse livro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You’re right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230509T085104Z" creationid="antbs" creationdate="20230509T085104Z">
+        <seg>Você tem razão.</seg>
       </tuv>
     </tu>
     <tu>
