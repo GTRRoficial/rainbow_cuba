@@ -4810,8 +4810,8 @@
       <tuv lang="en-US">
         <seg>The documentary turned its cameras onto the audiences of “Strawberry and Chocolate” (Fresa y chocolate), another film made with the help of the Cuban state.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230509T131610Z" creationid="PC" creationdate="20230509T131610Z">
-        <seg>O documentário projetou as suas câmeras para a audiência de “Morango e Chocolate” (Fresa y chocolate), another film made with the help of the Cuban state.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230509T131700Z" creationid="PC" creationdate="20230509T131610Z">
+        <seg>O documentário projetou as suas câmeras para a audiência de “Morango e Chocolate” (Fresa y chocolate), outro filme realizado com o apoio do governo cubano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,8 +5090,8 @@
       <tuv lang="en-US">
         <seg>The same year, the FMC invited an organization named “U.S. Queers for Cuba” to visit the island, the group’s co-founder de Vries told Workers World.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230508T122552Z" creationid="PC" creationdate="20230508T122552Z">
-        <seg>No mesmo ano, a FMC convidou uma organização chamada "Queers dos EUA por Cuba" (“U.S. Queers for Cuba”) para visitar a ilha, contou a co-fundadora do grupo, de Vries, ao Workers World.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230509T131617Z" creationid="PC" creationdate="20230508T122552Z">
+        <seg>No mesmo ano, a FMC convidou uma organização chamada "Queers dos EUA por Cuba" (U.S. Queers for Cuba) para visitar a ilha, contou a co-fundadora do grupo, de Vries, ao Workers World.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6743,6 +6743,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="ditol" changedate="20230502T210015Z" creationid="ditol" creationdate="20230502T205744Z">
         <seg>"Além disso," Mejía conclui, “os conquistadores tratavam a 'sodomia' como um pecado especial indiano, caçaram e puniram de acordo, em larga escala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Gay Cuba” captured some of the enthusiastic responses of Cubans who had just seen “Strawberry and Chocolate” — a 1993 film about a heterosexual communist and a homosexual Cuban — at the Yara cinema.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230509T132947Z" creationid="PC" creationdate="20230509T132947Z">
+        <seg>“Gay Cuba” capturou algumas das respostas animadas dos cidadãos cubanos que assistiram a “Morango e Chocolate” — um filme de 1993 sobre um comunista heterosexual e um cubano homosexual — no cinema Yara.</seg>
       </tuv>
     </tu>
     <tu>
