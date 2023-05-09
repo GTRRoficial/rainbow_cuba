@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -144,16 +144,16 @@
       <tuv lang="en-US">
         <seg>1990s: Broadcasting education ‘to every home’</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T230948Z" creationid="Usuário" creationdate="20230422T230948Z">
-        <seg>Década de 1990: Transmitindo educação ‘para todos os lares’</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230509T204629Z" creationid="Usuário" creationdate="20230422T230948Z">
+        <seg>1990: Transmitindo educação ‘para todos os lares’</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>1990s: Broadcasting&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T231014Z" creationid="Usuário" creationdate="20230422T231014Z">
-        <seg>Década de 1990: Transmitindo&lt;br0/&gt;</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230509T204622Z" creationid="Usuário" creationdate="20230422T231014Z">
+        <seg>1990: Transmitindo&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,8 +5082,8 @@
       <tuv lang="en-US">
         <seg>The revolutionary Cuban government, since the 1990s, has waged a struggle against deep-rooted old prejudice about same-sex love in virtually every cultural venue.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T231057Z" creationid="Usuário" creationdate="20230422T231057Z">
-        <seg>O governo revolucionário cubano, desde a década de 1990, tem travado uma luta contra o velho preconceito profundamente enraizado sobre o amor entre pessoas do mesmo sexo em praticamente todos os espaços culturais.</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230509T204731Z" creationid="Usuário" creationdate="20230422T231057Z">
+        <seg>O governo revolucionário cubano, desde 1990, tem travado uma luta contra o velho preconceito profundamente enraizado sobre o amor entre pessoas do mesmo sexo em praticamente todos os espaços culturais.</seg>
       </tuv>
     </tu>
     <tu>
