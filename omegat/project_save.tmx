@@ -1747,8 +1747,8 @@
       <tuv lang="en-US">
         <seg>Cuban journalist Gisela Arandia stressed in “Gay Cuba,” “For people in other parts of the world, ‘Strawberry and Chocolate’ might be just another movie.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112543Z" creationid="PC" creationdate="20230510T112543Z">
-        <seg>A jornalidade cubana, Gisela Arandia, enfatizou em “Gay Cuba,” “For people in other parts of the world, ‘Strawberry and Chocolate’ might be just another movie.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112808Z" creationid="PC" creationdate="20230510T112543Z">
+        <seg>A jornalidade cubana, Gisela Arandia, enfatizou em “Cuba Gay”: “Para habitantes de outras partes do mundo, ‘Morango e Chocolate’ poderá ser apenas outro filme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,6 +2054,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230428T025146Z" creationid="tcban" creationdate="20230428T011932Z">
         <seg>Durante 450 anos da história de Cuba, a organização social e regulação estatal dos sexos, da expressão de gênero e das sexualidades (como acontece com todos os povos ocupados e colonizados) ficou subordinada aos brutais sistemas de exploração dos agricultores donos de terras, dos patrões capitalistas e dos imperialistas do capitalismo financeiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For Cuba, it was an essential moment in our society’s development, because never before had these topics been dealt with in public.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T113112Z" creationid="PC" creationdate="20230510T113112Z">
+        <seg>Para Cuba, esse momento foi crucial no desenvolvimento da nossa sociedade, pois esses tópicos nunca tinham sido discutidos em público.”</seg>
       </tuv>
     </tu>
     <tu>
