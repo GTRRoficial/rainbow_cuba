@@ -1745,6 +1745,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cuban journalist Gisela Arandia stressed in “Gay Cuba,” “For people in other parts of the world, ‘Strawberry and Chocolate’ might be just another movie.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112543Z" creationid="PC" creationdate="20230510T112543Z">
+        <seg>A jornalidade cubana, Gisela Arandia, enfatizou em “Gay Cuba,” “For people in other parts of the world, ‘Strawberry and Chocolate’ might be just another movie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuban participates in this Assembly as a responsible member of the international community, showing solidarity and modesty and freely offering our experience and collaboration.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214728Z" creationid="Gabri" creationdate="20230420T214728Z">
@@ -3850,6 +3858,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215430Z" creationid="Gabri" creationdate="20230420T215430Z">
         <seg>As pessoas não podem ter a permissão de ganhar dinheiro com a vida de seres humanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>People had never before discussed homosexuality so much.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112514Z" creationid="PC" creationdate="20230510T112514Z">
+        <seg>A homossexualidade nunca havia sido tão discutida antes.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -6555,6 +6571,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‘Gay Cuba’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112558Z" creationid="PC" creationdate="20230510T112558Z">
+        <seg>‘Cuba Gay’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‘Gendering’ domination</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T174530Z" creationid="Administrador" creationdate="20230426T174530Z">
@@ -6773,24 +6797,24 @@
       <tuv lang="en-US">
         <seg>“Gay Cuba” captured some of the enthusiastic responses of Cubans who had just seen “Strawberry and Chocolate” — a 1993 film about a heterosexual communist and a homosexual Cuban — at the Yara cinema.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230509T132947Z" creationid="PC" creationdate="20230509T132947Z">
-        <seg>“Gay Cuba” capturou algumas das respostas animadas dos cidadãos cubanos que assistiram a “Morango e Chocolate” — um filme de 1993 sobre um comunista heterosexual e um cubano homosexual — no cinema Yara.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112650Z" creationid="PC" creationdate="20230509T132947Z">
+        <seg>“Cuba Gay” capturou algumas das respostas animadas dos cidadãos cubanos que assistiram a “Morango e Chocolate” — um filme de 1993 sobre um comunista heterosexual e um cubano homosexual — no cinema Yara.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>“Gay Cuba” is a series of interviews — a radio host and a singer/poet, an artist and a gay male elected union general secretary, a feminine male factory worker and a journalist, an HIV-positive doctor and an interpreter, soldiers and teenaged law students — who offer personal anecdotes and individual observations about attitudes towards same-sex love in Cuba.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230508T121737Z" creationid="PC" creationdate="20230508T114403Z">
-        <seg>“Gay Cuba” é uma série de entrevistas — um radialista e uma cantora/poeta, um artista e um homem gay eleito secretário geral de um sindicato, um operário feminino e uma jornalista, um médico soropositivo e uma intérprete, soldados e jovens estudantes de direito — que oferecem anedotas pessoais e observações individuais em relação às atitudes para com o amor entre pessoas do mesmo sexo em Cuba.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112626Z" creationid="PC" creationdate="20230508T114403Z">
+        <seg>“Cuba Gay” é uma série de entrevistas — um radialista e uma cantora/poeta, um artista e um homem gay eleito secretário geral de um sindicato, um operário feminino e uma jornalista, um médico soropositivo e uma intérprete, soldados e jovens estudantes de direito — que oferecem anedotas pessoais e observações individuais em relação às atitudes para com o amor entre pessoas do mesmo sexo em Cuba.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>“Gay Cuba” released in 1996 was a project of Cuba’s Félix Varela Center (CFV).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230508T111224Z" creationid="PC" creationdate="20230508T111224Z">
-        <seg>“Gay Cuba”, estreado m 1996, foi um projeto de Félix Varela Center (CFV), de Cuba.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112617Z" creationid="PC" creationdate="20230508T111224Z">
+        <seg>“Cuba Gay" (Gay Cuba), estreado m 1996, foi um projeto de Félix Varela Center (CFV), de Cuba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7237,8 +7261,8 @@
       <tuv lang="en-US">
         <seg>“‘Gay Cuba’ was shown at the Havana International Festival of Latin American Cinema to public and critical acclaim,” wrote scholar Larry R. Oberg.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230509T131447Z" creationid="PC" creationdate="20230509T131447Z">
-        <seg>“‘Gay Cuba’ foi apresentado no Festival Internacional de Havana de Cinema Latino-Americano e conquistou tanto o público como a crítica,” escreveu o historiador Larry R. Oberg.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112638Z" creationid="PC" creationdate="20230509T131447Z">
+        <seg>“‘Cuba Gay’ foi apresentado no Festival Internacional de Havana de Cinema Latino-Americano e conquistou tanto o público como a crítica,” escreveu o historiador Larry R. Oberg.</seg>
       </tuv>
     </tu>
     <tu>
