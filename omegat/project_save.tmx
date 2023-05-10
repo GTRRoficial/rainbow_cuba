@@ -3542,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Measure of change</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T114310Z" creationid="PC" creationdate="20230510T114310Z">
+        <seg>Medidas de mudança</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mejía added, “[T]he Aztecs ruled over a vast array of peoples, who had different cultural histories.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="ditol" changedate="20230502T171330Z" creationid="ditol" creationdate="20230502T171330Z">
