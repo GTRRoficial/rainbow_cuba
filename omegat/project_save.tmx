@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3161,6 +3161,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T003604Z" creationid="Usuário" creationdate="20230428T003604Z">
         <seg>Jerry, do Athletes United for Peace, EUA-El Salvador Cidades Irmãs, Comitê de Solidariedade da Nicarágua, escreve: “Essas pessoas estavam tentando impedir um ato de terrorismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jorge Perugorria, a lead actor in “Strawberry and Chocolate,” said in this documentary: “‘Strawberry and Chocolate’ is the story of an encounter … between a communist militant and a homosexual, and how their friendship develops out of this encounter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T112337Z" creationid="PC" creationdate="20230510T112337Z">
+        <seg>Jorge Perugorria, o ator principal em “Morango e Chocolate” disse, nesse documentário: “‘Morango e Chocolate’ é a história de um encontro… entre um militante comunista e um homem homossexual, e como a sua amizade se desenvolve após esse encontro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6723,6 +6731,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“Fantastic!” a filmgoer who described himself as a heterosexual, masculine male ex-claimed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T110707Z" creationid="PC" creationdate="20230510T110707Z">
+        <seg>“Fantástico!”, exclamou um cinéfilo que se descreve como um homem masculino heterossexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“First,” she told Reed, “I think we have to work more and better in the schools.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T020801Z" creationid="Usuário" creationdate="20230423T020801Z">
@@ -6823,6 +6839,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222146Z" creationid="Usuário" creationdate="20230426T222146Z">
         <seg>“Quero trazer a humanidade da revolução para aqueles aspectos da vida que ela não alcançou por causa de velhos preconceitos”, disse Mariela Castro Espín, que trabalhou duro para erradicar os preconceitos pré-revolucionários sobre amor entre pessoas do mesmo sexo, transexualidade e variação de gênero em Cuba, no verão de 2006.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“If I could have a friend like that I would!”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T110726Z" creationid="PC" creationdate="20230510T110726Z">
+        <seg>“Se eu pudesse, teria um amigo assim!”</seg>
       </tuv>
     </tu>
     <tu>
