@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another young woman remembered going to see a psychologist to try to change her same-sex attraction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T115851Z" creationid="PC" creationdate="20230510T115757Z">
+        <seg>Outra jovem recorda ter ido em uma consulta de psicóloga para tentar mudar sua atração a pessoas do mesmo sexo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Antonio de la Calancha, a Spanish official in Lima, wrote that during Vasco Núñez de Balboa’s incursion across Panama, he “saw men dressed like women; Balboa learnt that they were sodomites and threw the king and forty others to be eaten by his dogs, a fine action of an honorable and Catholic Spaniard.” (Guerra)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="ditol" changedate="20230502T210510Z" creationid="ditol" creationdate="20230502T210510Z">
@@ -3800,8 +3808,8 @@
       <tuv lang="en-US">
         <seg>One young woman recalled going to a judgmental therapist about her attraction to other women.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230510T115221Z" creationid="PC" creationdate="20230510T115210Z">
-        <seg>Uma jovem recordou sua experiência com um terapeuta preconceituoso, quando foi em uma consulta por causa de sua atração a outras mulheres.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T115802Z" creationid="PC" creationdate="20230510T115210Z">
+        <seg>Uma jovem senhora recordou sua experiência com um terapeuta preconceituoso, quando foi em uma consulta por causa de sua atração a outras mulheres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5317,6 +5325,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230423T232612Z" creationid="tcban" creationdate="20230423T232612Z">
         <seg>A falsidade política deles ficou óbvia no fronte doméstico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then I stood up and left.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230510T115751Z" creationid="PC" creationdate="20230510T115751Z">
+        <seg>Depois, me levantei e saí.”</seg>
       </tuv>
     </tu>
     <tu>
