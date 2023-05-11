@@ -3215,8 +3215,8 @@
       <tuv lang="en-US">
         <seg>I’ve been here 12 years.”</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230510T120918Z" creationid="PC" creationdate="20230510T120918Z">
-        <seg>Estive aqui há 12 anos.”</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230511T122147Z" creationid="PC" creationdate="20230510T120918Z">
+        <seg>Estou aqui há 12 anos.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +3866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="ditol" changedate="20230502T172606Z" creationid="ditol" creationdate="20230502T172606Z">
         <seg>Uma dessas culturas eram os Zapotecas, descendentes dos Maias e localizados no que hoje se chama estado de Oaxaca.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One young Cuban said when she was in high school, she thought that she was not accepted into the communist youth (UJC) group because there was discussion about whether she was or was not a lesbian.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230511T122418Z" creationid="PC" creationdate="20230511T122418Z">
+        <seg>Uma jovem cubana disse que quando ela estava no ensino médio, pensou que não era aceita no grupo da juventude comunista (UJC) porque havia discussões sobre ela ser ou não lésbica.</seg>
       </tuv>
     </tu>
     <tu>
