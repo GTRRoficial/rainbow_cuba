@@ -815,6 +815,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>Reclamação da tradutora: não se escolhe gênero, porém talvez na época ainda não se soubesse disso.</note>
       <tuv lang="en-US">
         <seg>Arreola reported, “This is part of a national policy to recognize the rights of these people to live a full life in the gender they chose.”</seg>
       </tuv>
@@ -3754,8 +3755,8 @@
       <tuv lang="en-US">
         <seg>New identity documents would also be immediately issued.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T024202Z" creationid="Usuário" creationdate="20230423T024202Z">
-        <seg>Novos documentos de identidade também serão emitidos imediatamente.</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230514T031747Z" creationid="Usuário" creationdate="20230423T024202Z">
+        <seg>Novos documentos de identidade também seriam emitidos imediatamente.</seg>
       </tuv>
     </tu>
     <tu>
