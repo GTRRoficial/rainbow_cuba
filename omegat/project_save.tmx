@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5185,6 +5185,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T223021Z" creationid="Gabri" creationdate="20230420T223021Z">
         <seg>A reforma planejada, elaborada pela Federação de Mulheres Cubanas (FMC) e apoiada pela CENESEX, será apresentada ao parlamento do povo como um projeto de lei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The political views towards the revolution of those who spoke on camera in “Gay Cuba” largely could only be gleaned through their anecdotes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230511T133642Z" creationid="PC" creationdate="20230511T133642Z">
+        <seg>As visões políticas em relação à revolução daqueles que falaram para a câmera em “Cuba Gay” poderiam apenas, na sua maioria, ser identificadas através das suas anedotas.</seg>
       </tuv>
     </tu>
     <tu>
