@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(“El Pecado Original” is available on Milanés’s CD “Orígines.”)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230514T094147Z" creationid="PC" creationdate="20230514T094147Z">
+        <seg>(“El Pecado Original” está disponível no CD de Milanés, “Orígines.”)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>16, 2003].</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214218Z" creationid="Gabri" creationdate="20230420T214218Z">
@@ -3701,6 +3709,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T003814Z" creationid="Usuário" creationdate="20230428T003814Z">
         <seg>Miami é a única cidade nos EUA onde os Cinco certamente não poderiam receber um julgamento justo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Milanés — a Cuban who harvested in the UMAP brigades in the mid-1960s, and who is beloved in Cuba — told the concert audience, “I dedicate this song to homosexuals, to gay people, and to all those who are marginalized and are suffering in the world.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230514T094833Z" creationid="PC" creationdate="20230514T094833Z">
+        <seg>Milanés — um cubano capturado pelas brigadas da UMAP em meados dos anos sessenta, e muito adorado em Cuba — proclamou à sua audiência, “Eu dedico esta música às pessoas homossexuais, aos gays, e todas as pessoas marginalizadas e sofrendo no mundo.”</seg>
       </tuv>
     </tu>
     <tu>
