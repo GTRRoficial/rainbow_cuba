@@ -4065,6 +4065,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Precious footage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230514T093756Z" creationid="PC" creationdate="20230514T093756Z">
+        <seg>Cenas valiosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Progress in Cuba is the measurable difference between the two.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230514T091434Z" creationid="PC" creationdate="20230514T091415Z">
