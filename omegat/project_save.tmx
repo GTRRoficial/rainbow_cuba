@@ -4890,11 +4890,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Por não encontrar palavras próximas que mantivessem o contexto, essa sentença foi quase toda reescrita, adicionando informações para melhorar o entendimento.
+</note>
       <tuv lang="en-US">
         <seg>The U.S. blockade of Cuba, aimed at strangling the economy, makes it harder to buy a pair of shoes, let alone build socialism, which requires material abundance and often imported materials.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230513T212402Z" creationid="Usuário" creationdate="20230422T231540Z">
-        <seg>O bloqueio dos EUA a Cuba, destinado a estrangular a economia, que dificulta a compra de um par de sapatos, sufoca a construção do socialismo, que requer abundância material e, muitas vezes, a importação desses materiais.</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230514T040317Z" creationid="Usuário" creationdate="20230422T231540Z">
+        <seg>O bloqueio dos EUA a Cuba, destinado a estrangular a economia, dificulta tanto a compra de um par de sapatos quanto a construção do socialismo, pois todo país necessita de uma variedade de materiais para o dia a dia e, sendo Cuba uma ilha com recursos limitados, tais coisas muitas vezes necessitam ser importadas.</seg>
       </tuv>
     </tu>
     <tu>
