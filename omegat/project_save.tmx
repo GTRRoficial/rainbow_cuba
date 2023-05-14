@@ -4067,8 +4067,8 @@
       <tuv lang="en-US">
         <seg>Precious footage</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230514T093756Z" creationid="PC" creationdate="20230514T093756Z">
-        <seg>Cenas valiosas</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230514T093830Z" creationid="PC" creationdate="20230514T093756Z">
+        <seg>Metragem valiosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5025,6 +5025,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230424T000000Z" creationid="thy" creationdate="20230420T015550Z">
         <seg>Os responsáveis por isso foram o colonialismo e o desenvolvimento da sociedade de classes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The documentary also provides historic footage of Cuban &lt;f0&gt;nova trova&lt;/f0&gt; singer Pablo Milanés singing his song “Original Sin” at a 1994 public concert in Havana.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230514T094119Z" creationid="PC" creationdate="20230514T093804Z">
+        <seg>O documentário também proporciona a metragem do cantor cubano de &lt;f0&gt;nova trova&lt;/f0&gt;, Pablo Milanés, cantando sua canção “O Pecado Original” (El Pecado Original) em um concerto aberto ao público em 1994, Havana.</seg>
       </tuv>
     </tu>
     <tu>
