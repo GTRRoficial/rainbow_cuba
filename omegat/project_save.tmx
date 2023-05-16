@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3579,8 +3579,8 @@
       <tuv lang="en-US">
         <seg>Many LGBT labor activists have added their names and/or the endorsement of their unions, including the Pride at Work/GALLAN (Gay and Lesbian Labor Action Network), Boston, Mass, AFL-CIO; Bus Riders Union/Labor Community Strategy Center, Los Angeles, Calif.; and from Canada: Canadian Union Of Postal Workers, Calgary, Alberta; Canadian Union of Public Employees, Toronto, Ont.; and Hospital Employees’ Union, Burnaby, B.C.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Administrador" changedate="20230502T185122Z" creationid="Administrador" creationdate="20230502T185122Z">
-        <seg>Muitos militantes trabalhistas LGBT acrescentaram os seus nomes e/ou o apoio dos seus sindicatos, incluindo o Pride at Work/GALLAN (Gay and Lesbian Labor Action Network), Boston, Massachusetts, AFL-CIO; Bus Riders Union/Labor Community Strategy Center, Los Angeles, Califórnia; e do Canadá: Canadian Union Of Postal Workers, Calgary, Alberta; Canadian Union of Public Employees, Toronto, Ontário; e Hospital Employees' Union, Burnaby, B.C.</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230516T213604Z" creationid="Administrador" creationdate="20230502T185122Z">
+        <seg>Muitos militantes trabalhistas LGBT acrescentaram os seus nomes e/ou o apoio dos seus sindicatos, incluindo o Pride at Work/GALLAN (Orgulho no Trabalho/Rede de Ação no Trabalho de Gays e Lésbicas), Boston, Massachusetts, AFL-CIO; Bus Riders Union/Labor Community Strategy Center, Los Angeles, Califórnia; e do Canadá: Canadian Union Of Postal Workers (Sindicato Canadense dos Trabalhadores dos Correios), Calgary, Alberta; Canadian Union of Public Employees, Toronto, Ontário; e Hospital Employees' Union, Burnaby, B.C.</seg>
       </tuv>
     </tu>
     <tu>
