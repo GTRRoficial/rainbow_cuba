@@ -1676,6 +1676,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cross-gender performance &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230517T120001Z" creationid="PC" creationdate="20230517T120001Z">
+        <seg>Performance drag &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuba addresses world impact</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214243Z" creationid="Gabri" creationdate="20230420T214243Z">
@@ -3370,8 +3378,8 @@
       <tuv lang="en-US">
         <seg>La Güinera: Cross-gender performance in workers’ dining halls</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230516T120714Z" creationid="PC" creationdate="20230516T120714Z">
-        <seg>La Güinera: Performance drag nos refeitórios dos trabalhadores</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230517T120042Z" creationid="PC" creationdate="20230516T120714Z">
+        <seg>La Güinera: Performance drag em refeitórios de trabalhadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -6824,6 +6832,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>in workers’ dining halls</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230517T120034Z" creationid="PC" creationdate="20230517T120034Z">
+        <seg>em refeitórios de trabalhadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>medical group, said, “Cuba now produces enough anti-viral medicines for its own patients and it has offered to supply other nations in the Caribbean region.” (Cookson)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T224230Z" creationid="Gabri" creationdate="20230420T214138Z">
@@ -7108,6 +7124,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230423T230436Z" creationid="tcban" creationdate="20230423T230436Z">
         <seg>"Mas esse trabalho teve suas dificuldades", diz McCubbin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Butterflies on the Scaffold” (“&lt;f0&gt;Mariposas en el andamio&lt;/f0&gt;”), a 1995 documentary, offered a profoundly moving account of how Cuban women construction workers literally made room for cross-dressing performance art in the workers’ cafeterias in their neighborhood on the outskirts of Havana, called La Güinera.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230517T120532Z" creationid="PC" creationdate="20230517T120532Z">
+        <seg>“Mariposas en el andamio” (Mariposas no andaime), um documentário de 1995, oferece um relato profundamente tocante de como operárias cubanas literalmente deram espaço a performances drag nos refeitórios da vizinhança, nos subúrbios de Havana, chamada La Güinera.</seg>
       </tuv>
     </tu>
     <tu>
