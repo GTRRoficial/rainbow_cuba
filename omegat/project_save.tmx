@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7210,8 +7210,8 @@
       <tuv lang="en-US">
         <seg>“Gay Cuba” is a series of interviews — a radio host and a singer/poet, an artist and a gay male elected union general secretary, a feminine male factory worker and a journalist, an HIV-positive doctor and an interpreter, soldiers and teenaged law students — who offer personal anecdotes and individual observations about attitudes towards same-sex love in Cuba.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230515T152204Z" creationid="PC" creationdate="20230508T114403Z">
-        <seg>“Gay Cuba” é uma série de entrevistas — uma radialista e um cantor/poeta, um artista e um homem gay eleito secretário geral de um sindicato, um operário feminino e uma jornalista, um médico soropositivo e uma intérprete, soldados e jovens estudantes de direito — que oferecem anedotas pessoais e observações individuais em relação às atitudes para com o amor entre pessoas do mesmo sexo em Cuba.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230517T115817Z" creationid="PC" creationdate="20230508T114403Z">
+        <seg>“Gay Cuba” é uma série de entrevistas — uma radialista e um cantor/poeta, um artista e um homem gay eleito secretário geral de um sindicato, um operário feminino e uma jornalista, um médico com HIV e uma intérprete, soldados e jovens estudantes de direito — que oferecem anedotas pessoais e observações individuais em relação às atitudes para com o amor entre pessoas do mesmo sexo em Cuba.</seg>
       </tuv>
     </tu>
     <tu>
