@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1406,8 +1406,8 @@
       <tuv lang="en-US">
         <seg>Castro Espín is director of Cuba’s National Center for Sex Education (CENESEX), which has accomplished a great deal in a relatively short time to replace prejudices about same-sex love and transsexuality with positive attitudes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222223Z" creationid="Usuário" creationdate="20230426T222223Z">
-        <seg>Castro Espín é diretor do Centro Nacional de Educação Sexual de Cuba (CENESEX), que realizou muito em um tempo relativamente curto para substituir preconceitos sobre amor entre pessoas do mesmo sexo e transexualidade por atitudes positivas.</seg>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230518T200405Z" creationid="Usuário" creationdate="20230426T222223Z">
+        <seg>Castro Espín é diretor do Centro Nacional de Educação Sexual de Cuba (CENESEX), que fez muito em um tempo relativamente curto para substituir preconceitos sobre amor entre pessoas do mesmo sexo e transexualidade por atitudes positivas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7362,8 +7362,8 @@
       <tuv lang="en-US">
         <seg>“I want to bring the revolution’s humanity to those aspects of life that it hasn’t reached because of old prejudices,” Mariela Castro Espín, who has worked hard to eradicate pre-revolutionary prejudices about same-sex love, transsexuality and gender variance in Cuba, said in summer 2006.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222146Z" creationid="Usuário" creationdate="20230426T222146Z">
-        <seg>“Quero trazer a humanidade da revolução para aqueles aspectos da vida que ela não alcançou por causa de velhos preconceitos”, disse Mariela Castro Espín, que trabalhou duro para erradicar os preconceitos pré-revolucionários sobre amor entre pessoas do mesmo sexo, transexualidade e variação de gênero em Cuba, no verão de 2006.</seg>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230518T200218Z" creationid="Usuário" creationdate="20230426T222146Z">
+        <seg>“Quero trazer a humanidade da revolução para aqueles aspectos da vida que ela não alcançou por causa de velhos preconceitos”, disse Mariela Castro Espín, que trabalhou duro para erradicar os preconceitos pré-revolucionários sobre amor entre pessoas do mesmo sexo, transexualidade e variações de gênero em Cuba, no verão de 2006.</seg>
       </tuv>
     </tu>
     <tu>
