@@ -3137,6 +3137,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instead, the voiceover narrates that the author’s childhood was “splendor,” adding that “it was absolute poverty but also absolute freedom … .”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Natasha" changedate="20230519T220824Z" creationid="Natasha" creationdate="20230519T220824Z">
+        <seg>Em vez disso, a narração relata que a infância do autor foi " maravilhosa", acrescentando que "foi absoluta pobreza, mas também absoluta liberdade … .”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>International endorsements flooded in from Argentina, Australia, Austria, Belgium, Brazil, Canada, Costa Rica, Croatia, Cuba, Cyprus, Denmark, England, Finland, France, Germany, Greece, India, Iran, Ireland, Italy, Japan, Luxemburg, Mexico, Montenegro, New Zealand, occupied Palestine, Philippines, Portugal, Puerto Rico, Romania, Scot-land, Serbia, Spain, Sweden, Switzerland, Turkey, United Arab Emirates, Wales and other countries and nations and from Hong Kong and Taiwan.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230427T201045Z" creationid="Administrador" creationdate="20230427T201045Z">
@@ -5475,6 +5483,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230423T231808Z" creationid="tcban" creationdate="20230423T231808Z">
         <seg>A realidade é que a Revolução Cubana (que tomou o poder do Estado em uma ilha onde a sociedade de classes, o colonialismo e o imperialismo incutiram profundamente no cotidiano preconceitos e repressão contra amor homoafetivo) realizou avanços expressivos para homens que amam homens e mulheres que amam mulheres, bem como na luta contra o racismo e o sexismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The reality of agricultural plantation enslavement is nowhere to be seen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Natasha" changedate="20230519T220620Z" creationid="Natasha" creationdate="20230519T220620Z">
+        <seg>A realidade da escravidão nas plantações agrícolas não é vista em lugar algum (no México?).</seg>
       </tuv>
     </tu>
     <tu>
