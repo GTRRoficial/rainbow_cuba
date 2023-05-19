@@ -2607,8 +2607,8 @@
       <tuv lang="en-US">
         <seg>I assure you it has been heard by receptive listeners.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T223349Z" creationid="Usuário" creationdate="20230426T223349Z">
-        <seg>Garanto que isso foi escutado por ouvintes receptivos.</seg>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230519T165057Z" creationid="Usuário" creationdate="20230426T223349Z">
+        <seg>Garanto que isso foi recebido por ouvintes receptivos.</seg>
       </tuv>
     </tu>
     <tu>
