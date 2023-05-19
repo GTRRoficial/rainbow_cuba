@@ -11,3 +11,4 @@ cross-dressing	cross-dressing	Usar roupas do gênero oposto ao que a pessoa expr
 cross-gender	drag	Ação performática onde a pessoa faz um personagem do próprio gênero ou do oposto, formado pela exacerbação das características sociais de gênero. Ex. Drag queen: performace de feminilidade, drag king, performace de masculinidade.
 AIDS care	cuidado com a AIDS	sugestão baseada no DeepL
 AIDS activists	ativistas de resposta à AIDS
+being “out”	"sair do armário"	Deixar de camuyflar sua identidade sexual e/ou de gênero, ser abertamente não cis e/ou heterossexual.
