@@ -2553,8 +2553,8 @@
       <tuv lang="en-US">
         <seg>Hollywood turned up the volume on charges that Cuba was a “penal colony” for homosexual males with its release of “Before Night Falls” in August 2000.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Natasha" changedate="20230519T213856Z" creationid="Natasha" creationdate="20230519T213856Z">
-        <seg>Hollywood intensificou as acusações de que Cuba era uma "colônia penal” para homens homossexuais com o lançamento do filme “Before Night Falls” ("Antes do Anoitecer" no Brasil) em agosto de 2000.</seg>
+      <tuv lang="pt-BR" changeid="Natasha" changedate="20230519T215700Z" creationid="Natasha" creationdate="20230519T213856Z">
+        <seg>Hollywood intensificou as acusações(insinuações?) de que Cuba era uma "colônia penal” para homens homossexuais com o lançamento do filme “Before Night Falls” ("Antes do Anoitecer" no Brasil) em agosto de 2000.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7190,6 +7190,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230510T115955Z" creationid="PC" creationdate="20230510T115955Z">
         <seg>“No final da semana, ela me disse, ‘Querida, escute, eu consigo ver que você é mais feliz como é agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Before Night Falls” was the pinnacle of this propaganda campaign, by virtue of having the most capital invested in its production, its cast and distribution network; the publicity generated for its release; and the accolades and awards that gave it the impri-matur of “truth.” Interspersed snippets of actual archival footage from the early days of the revolution and snippets of newsreel of Fidel Castro’s speeches aim to lend the film the appearance of historical authenticity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Natasha" changedate="20230519T220058Z" creationid="Natasha" creationdate="20230519T220058Z">
+        <seg>“Antes do Anoitecer” foi o ápice dessa campanha de propaganda, em virtude de ter o maior capital investido em sua produção, seu elenco e rede de distribuição; a publicidade gerada para seu lançamento; e os reconhecimentos e prêmios que lhe deram o caráter de "verdade". Trechos intercalados de imagens de arquivo reais dos primeiros dias da revolução e trechos de noticiários dos discursos de Fidel Castro visam dar ao filme a aparência de autenticidade histórica.</seg>
       </tuv>
     </tu>
     <tu>
