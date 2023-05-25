@@ -7914,6 +7914,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‘We saw the show and we like it’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T141212Z" creationid="PC" creationdate="20230525T141212Z">
+        <seg>‘Vimos o espetáculo e gostamos’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“AIDS drugs and other vital medicines required on a large scale should not be protected by patents.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215421Z" creationid="Gabri" creationdate="20230420T215421Z">
