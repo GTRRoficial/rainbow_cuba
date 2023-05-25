@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hatch and DeVries)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T132511Z" creationid="PC" creationdate="20230525T132511Z">
+        <seg>(Hatch e DeVries)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(IPS/GIN, July 3, 2004)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T222658Z" creationid="Usuário" creationdate="20230426T222658Z">
@@ -1986,6 +1994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T091139Z" creationid="elioneto" creationdate="20230422T085621Z">
         <seg>As mulheres e homens cubanos estavam lutando corajosamente junto com seus camaradas africanos para defender o povo da Angola, Nambibia e Etiópia contra o colonialismo e imperialismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuban women — ”the revolution within the revolution” — made up 70 percent of the construction brigades that built La Güinera from the ground up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T132743Z" creationid="PC" creationdate="20230525T132743Z">
+        <seg>Mulheres cubanas — ”a revolução dentro da revolução” — constituia 70 por cento das brigadas de construção que construiram La Güinera do chão.</seg>
       </tuv>
     </tu>
     <tu>
