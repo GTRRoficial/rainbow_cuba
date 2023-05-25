@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By May 2, 1983, simultaneous gay and lesbian protests of tens of thousands had to take to the streets in New York City, San Francisco, Los Angeles, Houston, Atlanta, Chicago and Milwaukee under banners reading “Fighting for our lives!” to demand federal funds to battle AIDS, and for research, services and Social Security benefits.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T055747Z" creationid="tatia" creationdate="20230525T055747Z">
+        <seg>Em dois de maio de 1983, dezenas de milhares de gays e lésbicas tiveram que tomar as ruas das cidades de Nova Iorque, São Francisco, Los Angeles, Houston, Atlanta, Chicago e Milwaukee em protesto, carregando faixas com os dizeres “Lutando por nossas vidas” para exigir verbas federais destinadas ao combate à AIDS, e para pesquisa, serviços e benefícios da previdência social. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By the 1950s, the promise of jobs attracted hundreds of thousands of impoverished rural workers of all sexualities, genders and sexes to the urban capital, the largest city on the island.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230428T012657Z" creationid="tcban" creationdate="20230428T012657Z">
@@ -3051,8 +3059,8 @@
       <tuv lang="en-US">
         <seg>In reality, Cuba took an immediate, scientific and humane approach to people with AIDS.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Renan" changedate="20230421T142959Z" creationid="Renan" creationdate="20230421T132446Z">
-        <seg>In reality, Cuba took an immediate, scientific and humane approach to people with AIDS..</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T054839Z" creationid="Renan" creationdate="20230421T132446Z">
+        <seg>Na realidade, Cuba adotou imediatamente uma abordagem científica e humanizada no tratamento das pessoas com AIDS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3107,8 +3115,8 @@
       <tuv lang="en-US">
         <seg>In the U.S., AIDS was first diagnosed in 1981.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Renan" changedate="20230421T143005Z" creationid="Renan" creationdate="20230421T131812Z">
-        <seg>In the U.S., AIDS was first diagnosed in 1981..</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T055017Z" creationid="Renan" creationdate="20230421T131812Z">
+        <seg>O primeiro diagnóstico de AIDS nos EUA ocorreu em 1981.</seg>
       </tuv>
     </tu>
     <tu>
