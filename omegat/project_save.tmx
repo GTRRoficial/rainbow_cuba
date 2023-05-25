@@ -6528,6 +6528,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They invited the girls from the [workers’] dining room.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T143938Z" creationid="PC" creationdate="20230525T143938Z">
+        <seg>Convidaram as mulheres no refeitório [dos trabalhadores].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They might try to, but it’s that individual, not the system itself.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230514T092522Z" creationid="PC" creationdate="20230514T092522Z">
