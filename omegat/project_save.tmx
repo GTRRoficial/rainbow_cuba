@@ -480,6 +480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A local family doctor said to the interviewer, with pride, that by the time of this documentary, the local infant mortality rate in the neighborhood clinic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T135335Z" creationid="PC" creationdate="20230525T135335Z">
+        <seg>Um médico local contou na entrevista, com orgulho, que, quando o documentário foi filmado, a taxa de mortalidade infantil na clínica da vizinhança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A lot of facts are assembled between the covers of this book.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230427T171012Z" creationid="Administrador" creationdate="20230427T171012Z">
