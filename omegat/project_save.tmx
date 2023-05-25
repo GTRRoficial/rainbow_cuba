@@ -6536,6 +6536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They said, we’ll build your house today and mine tomorrow.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T135212Z" creationid="PC" creationdate="20230525T135212Z">
+        <seg>Disseram: construiremos sua casa hoje e amanhã a minha.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They want to crush the revolution and re-enslave the entire population.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230423T232325Z" creationid="tcban" creationdate="20230423T232325Z">
