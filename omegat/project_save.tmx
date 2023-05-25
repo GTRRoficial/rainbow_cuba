@@ -1768,8 +1768,8 @@
       <tuv lang="en-US">
         <seg>Cuba mobilized before&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T054529Z" creationid="tatia" creationdate="20230525T045504Z">
-        <seg>Cuba se mobilizou&lt;br0/&gt;antes do primeiro diagnóstico</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T054731Z" creationid="tatia" creationdate="20230525T045504Z">
+        <seg>Cuba se mobilizou&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,6 +5189,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Reagan administration tried to whip up world anger at Cuba’s handling of the AIDS epidemic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T054612Z" creationid="tatia" creationdate="20230525T054612Z">
+        <seg>O governo Reagan tentou incitar raiva mundial contra Cuba pela maneira como o país lidou com a epidemia de AIDS. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The U.S.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230425T172438Z" creationid="Administrador" creationdate="20230425T172438Z">
@@ -6998,6 +7006,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T085740Z" creationid="elioneto" creationdate="20230422T085740Z">
         <seg>financeiro dos Estados Unidos tentou isolar e destruir a Revolução Cubana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>first diagnosis</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T054739Z" creationid="tatia" creationdate="20230525T054739Z">
+        <seg>antes do primeiro diagnóstico</seg>
       </tuv>
     </tu>
     <tu>
