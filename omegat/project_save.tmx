@@ -8018,6 +8018,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>‘Fifi should be honored by us’</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T150515Z" creationid="PC" creationdate="20230525T150515Z">
+        <seg>‘Fifi devia ser honrada por nós’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‘Gendering’ domination</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T174530Z" creationid="Administrador" creationdate="20230426T174530Z">
