@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cuba mobilized before&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230525T045504Z" creationid="tatia" creationdate="20230525T045504Z">
+        <seg>Cuba se mobilizouCuba mobilized before&lt;br0/&gt;antes do primeiro diagnóstico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuba surpasses world on&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T222735Z" creationid="Gabri" creationdate="20230420T222735Z">
