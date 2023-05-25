@@ -2000,8 +2000,8 @@
       <tuv lang="en-US">
         <seg>Cuban women — ”the revolution within the revolution” — made up 70 percent of the construction brigades that built La Güinera from the ground up.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230525T132743Z" creationid="PC" creationdate="20230525T132743Z">
-        <seg>Mulheres cubanas — ”a revolução dentro da revolução” — constituia 70 por cento das brigadas de construção que construiram La Güinera do chão.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T133926Z" creationid="PC" creationdate="20230525T132743Z">
+        <seg>As mulheres cubanas — ”a revolução dentro da revolução” — constituiam setenta por cento das brigadas de construção que construiram La Güinera do zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2417,8 +2417,8 @@
       <tuv lang="en-US">
         <seg>For more than 15 years after the 1959 revolution, La Güinera remained undeveloped.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230525T133653Z" creationid="PC" creationdate="20230525T133653Z">
-        <seg>Por mais de quinze anos For more than 15 years after the 1959 revolution, La Güinera remained undeveloped.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T133754Z" creationid="PC" creationdate="20230525T133653Z">
+        <seg>Por mais de quinze anos após a revolução de 1959, La Güinera permaneceu subdesenvolvida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5867,6 +5867,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230508T121850Z" creationid="PC" creationdate="20230508T121850Z">
         <seg>As entrevistas são intercaladas com filmagens da tomada de poder revolucionária.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The land was in the shadow of a meat factory, surrounded by bushes and insects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230525T134822Z" creationid="PC" creationdate="20230525T133902Z">
+        <seg>O terreno estava sob a sombra de um frigorífico, cercado por arbustos e insetos.</seg>
       </tuv>
     </tu>
     <tu>
