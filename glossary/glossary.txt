@@ -15,3 +15,4 @@ being “out”	"sair do armário"	Deixar de camuyflar sua identidade sexual e/o
 U.S.	estadunidense
 mariposa	borboleta	Não confundir com "mariposa" em português; em espanhol, "mariposa" é "polilla"
 delegations	comissões	Conjunto de pessoas designado por uma autoridade ou escolhido por uma assembleia para estudar um assunto, projeto.
+Cross-gender	Cross-gender	Não estou traduzindo o termo.
