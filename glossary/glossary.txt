@@ -16,3 +16,4 @@ U.S.	estadunidense
 mariposa	borboleta	Não confundir com "mariposa" em português; em espanhol, "mariposa" é "polilla"
 delegations	comissões	Conjunto de pessoas designado por uma autoridade ou escolhido por uma assembleia para estudar um assunto, projeto.
 Cross-gender	Cross-gender	Não estou traduzindo o termo.
+special period	período especial	Período de crise econômica que começou em 1989, principalmente devido à dissolução da União Soviética e, por extensão, do COMECON, e que se estendeu ao longo dos anos 90.
