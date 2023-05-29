@@ -2937,8 +2937,8 @@
       <tuv lang="en-US">
         <seg>Hechavarría and Hatch stressed, “Following the Revolution, women won near full equality under the law, including pay equity, the right to child care, abortion, and military service, among other historic gains, laying the basis for their higher social and political status.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T103711Z" creationid="tatia" creationdate="20230529T103415Z">
-        <seg>Hechavarría e Hatch destacam que, “após a Revolução, as mulheres conquistaram quase total igualdade perante a lei, incluindo igualdade salarial, direito a creches, aborto e serviço militar, entre outras conquistas históricas, estabelecendo as bases para status social e político mais elevado.</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T103844Z" creationid="tatia" creationdate="20230529T103415Z">
+        <seg>Hechavarría e Hatch destacam que, “após a Revolução, as mulheres conquistaram quase total igualdade perante a lei, incluindo igualdade salarial, direito a creches, aborto e serviço militar, entre outras conquistas históricas. Isto estabeleceu uma base que garantiu status social e político mais elevado para todas as mulheres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9319,6 +9319,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230514T034927Z" creationid="Usuário" creationdate="20230423T025202Z">
         <seg>“Essa atitude não estava de acordo com a política ou a lei, porque elas não penalizam uma pessoa por se vestir de como o gênero oposto.” (Arreola)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“This foundation, a first in the Americas, played an important role in women’s greater independence and sexual freedom, a prerequisite for homosexual liberation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T103740Z" creationid="tatia" creationdate="20230529T103740Z">
+        <seg>“Esta base, a first in the Americas, played an important role in women’s greater independence and sexual freedom, a prerequisite for homosexual liberation.</seg>
       </tuv>
     </tu>
     <tu>
