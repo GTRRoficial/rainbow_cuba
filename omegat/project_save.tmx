@@ -4076,8 +4076,8 @@
       <tuv lang="en-US">
         <seg>La Güinera: Cross-gender performance in workers’ dining halls</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230517T120042Z" creationid="PC" creationdate="20230516T120714Z">
-        <seg>La Güinera: Performance drag em refeitórios de trabalhadores</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071552Z" creationid="PC" creationdate="20230516T120714Z">
+        <seg>La Güinera: Performance drag nos refeitórios de trabalhadores</seg>
       </tuv>
     </tu>
     <tu>
@@ -5340,6 +5340,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She made us face the ‘herds’ of public we were afraid to face.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071737Z" creationid="PC" creationdate="20230529T071737Z">
+        <seg>Ela fez com que enfrentássemos as ‘manadas’ de gente que temíamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She narrated how her consciousness about transgender/homosexuality changed qualitatively while in a position of leadership.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230529T065635Z" creationid="PC" creationdate="20230529T065635Z">
@@ -5364,10 +5372,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She reassured us.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071750Z" creationid="PC" creationdate="20230529T071750Z">
+        <seg>Ela nos tranquilizou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She said an epidemiological approach to prevent AIDS transmission might simply suggest, “Use a condom.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230513T220404Z" creationid="Usuário" creationdate="20230423T015522Z">
         <seg>Ela disse que uma abordagem epidemiológica para prevenir a transmissão da AIDS pode simplesmente sugerir: “Use camisinha”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She said, “Do it, face them, you’ll see, nothing will happen.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071827Z" creationid="PC" creationdate="20230529T071827Z">
+        <seg>Disse: “Enfrentem esse desafio, verão que nada ruim acontecerá.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -8132,8 +8156,8 @@
       <tuv lang="en-US">
         <seg>in workers’ dining halls</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071524Z" creationid="PC" creationdate="20230517T120034Z">
-        <seg>no refeitório de trabalhadores</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071556Z" creationid="PC" creationdate="20230517T120034Z">
+        <seg>nos refeitórios de trabalhadores</seg>
       </tuv>
     </tu>
     <tu>
