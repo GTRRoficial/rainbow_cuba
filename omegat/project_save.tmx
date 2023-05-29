@@ -658,8 +658,8 @@
       <tuv lang="en-US">
         <seg>After the 1959 seizure of state power, it was Cuban women as a whole who became the driving force to break the chokehold of centuries-old patriarchal economic and social organization, and the attitudes about women and femininity it engendered.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T091945Z" creationid="tatia" creationdate="20230529T091719Z">
-        <seg>Após a tomada de poder estatal em 1959, foram as mulheres cubanas, como um todo, a se tornarem  força motriz no desmantelamento do secular embargo social e econômico do patriarcado,as a whole who became the driving force to break the chokehold of centuries-old patriarchal economic and social organization, and the attitudes about women and femininity it engendered.</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T092035Z" creationid="tatia" creationdate="20230529T091719Z">
+        <seg>Após a tomada de poder estatal em 1959, foram as mulheres cubanas, como um todo, a se tornarem  força motriz no desmantelamento do secular embargo social e econômico do patriarcado, e as atitudes direcionadas às mulheres que estes embargos estimulavam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5889,6 +5889,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T012523Z" creationid="Usuário" creationdate="20230427T012523Z">
         <seg>A Revolução Cubana merece o apoio de progressistas e comunistas em todo o mundo, sem exigir que seja tida como “perfeita” usando uma régua imperial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Cuban Women’s Federation (FMC) formed quickly after the revolution in 1960.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T092141Z" creationid="tatia" creationdate="20230529T092141Z">
+        <seg>A Federação das Mulheres Cubanas (FMC) se formou rapidamente após a revolução de 1960. </seg>
       </tuv>
     </tu>
     <tu>
