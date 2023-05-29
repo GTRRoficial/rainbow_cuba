@@ -4779,6 +4779,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One drag performer said of Fifi, “She opened a cabaret in the workers’ cafeteria and brought us into it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071510Z" creationid="PC" creationdate="20230529T071510Z">
+        <seg>Uma pessoa que faz drag disse a Fifi, “Ela abriu um cabaré no refeitório de trabalhadores e nos levou para lá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One of these was the Zapotec culture, derived from the Mayans and located in what is now the state of Oaxaca.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="ditol" changedate="20230502T172606Z" creationid="ditol" creationdate="20230502T172606Z">
@@ -6073,8 +6081,8 @@
       <tuv lang="en-US">
         <seg>The documentary ‘Butterflies on the Scaffold’ (Mariposas en el andamio) takes viewers to La Güinera, a neighborhood on the outskirts of Havana which has become a ‘cradle of cross-dressing’ in Cuba.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071259Z" creationid="PC" creationdate="20230529T071259Z">
-        <seg>O documentário ‘Butterflies on the Scaffold’ (Mariposas en el andamio) takes viewers to La Güinera, a neighborhood on the outskirts of Havana which has become a ‘cradle of cross-dressing’ in Cuba.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071409Z" creationid="PC" creationdate="20230529T071259Z">
+        <seg>O documentário “Mariposas en el andamio” traz os espectadores a La Güinera, um bairro nas províncias de Havana, que se tornou um ‘berços de cross-dressing’ em Cuba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8124,8 +8132,8 @@
       <tuv lang="en-US">
         <seg>in workers’ dining halls</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230517T120034Z" creationid="PC" creationdate="20230517T120034Z">
-        <seg>em refeitórios de trabalhadores</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230529T071524Z" creationid="PC" creationdate="20230517T120034Z">
+        <seg>no refeitório de trabalhadores</seg>
       </tuv>
     </tu>
     <tu>
