@@ -7090,8 +7090,8 @@
       <tuv lang="en-US">
         <seg>U.S.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Gabri" changedate="20230430T121826Z" creationid="Gabri" creationdate="20230420T213600Z">
-        <seg>O bloqueio</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T031905Z" creationid="Gabri" creationdate="20230420T213600Z">
+        <seg>Os líderes de organizações criminosas dos Estados Unidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,6 +7782,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230428T014338Z" creationid="tcban" creationdate="20230428T014338Z">
         <seg>e oficiais militares estadunidenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>crime syndicate bosses and wealthy Cubans with connections to Batista’s regime owned the profitable operations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T032117Z" creationid="tatia" creationdate="20230529T032117Z">
+        <seg>e cubanos abastados conectados com o Governo Batista detinham estas lucrativas operações..</seg>
       </tuv>
     </tu>
     <tu>
