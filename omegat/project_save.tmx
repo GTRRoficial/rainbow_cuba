@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before the 1959 revolution, the burgeoning sector of the Cuban economy was Havana’s prostitution industry, booming with Cold War consumption — the largest in the Caribbean — and the gambling, drugs and tourism connected to it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T031642Z" creationid="tatia" creationdate="20230529T031642Z">
+        <seg>Antes da revolução de 1959, o mais próspero setor da economia cubana era a indústria de prostituição em Havana, um crescimento acelerado pelo consumismo da Guerra Fria - o maior do Caribe - e a rede de jogos de azar, tráfico de drogas e turismo conectadas a isso..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Behind the 1980 ‘Mariel boatlift’</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230424T143539Z" creationid="elioneto" creationdate="20230422T083600Z">
@@ -7540,8 +7548,8 @@
       <tuv lang="en-US">
         <seg>When the revolutionary process began, it had to start from there.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T030851Z" creationid="tatia" creationdate="20230529T030851Z">
-        <seg>Quando se iniciou o processo revolucionário, ele teve de começar por ali.  </seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230529T030950Z" creationid="tatia" creationdate="20230529T030851Z">
+        <seg>Quando se iniciou o processo revolucionário, este foi o seu ponto de partida. </seg>
       </tuv>
     </tu>
     <tu>
