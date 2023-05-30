@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -624,6 +624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ada, a lesbian Cuban rural nurse, said that everything in Cuba wasn’t “perfect.” But, she said, “I remember how it was before [the revolution] and for the first time, I feel I’m a human being.’” (Arguelles)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T204513Z" creationid="elioneto" creationdate="20230530T204513Z">
+        <seg>Ada, uma enfermeira rural cubana e lésbica, disse que nem tudo na Cuba era “perfeito”. No entanto, “lembro como era antes [da revolução], e pela primeira vez, me senti como um ser-humano”. (Arguelles)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Addressing a conflict between revolutionary security police and trans Cubans two years earlier, Castro Espín was very clear.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T024810Z" creationid="Usuário" creationdate="20230423T024810Z">
@@ -944,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arguelles and Rich observed, “They are no longer confined to an underworld economy or alienated from the mainstream of social life as they were in the pre-revolutionary era. Particular individuals are well known and pointed to with pride as evidence of revolutionary non-discrimination.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T204543Z" creationid="elioneto" creationdate="20230530T204543Z">
+        <seg>Arguelles e Rich observaram que: “Eles já não estavam confinados em um submundo econômico ou afastados dos grandes acontecimentos da vida social como, como era o caso durante a era pré-revolucionária”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arguelles and Rich published their extensively researched report, entitled “Homosexuality, Homophobia, and Revolution: Notes Toward an Under standing of the Cuban Lesbian and Gay Male Experience,” in the summer of 1984.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230428T014610Z" creationid="tcban" creationdate="20230428T014610Z">
@@ -952,10 +968,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arguelles and Rich reported that in this period of their research — 1979 to 1984 — the homosexual population was “a visible feature of the Cuban social landscape” — part of every sphere of economic, social and governmental organization, as well as at the point of production of art and other forms of culture.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T204535Z" creationid="elioneto" creationdate="20230530T204535Z">
+        <seg>Arguelles e Rich relataram que durante o período da pesquisa, de 1979 até 1984, a população homossexual era “um traço visível da paisagem social cubana”, ou seja, parte das organizações na esfera econômica, social e governamental, bem como parte integrante na produção artística e em outras manifestações culturais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arguelles and Rich revealed how U.S. finance capital used its secret CIA police agency to politically target the same Cuban homosexual/transgender population it had once exploited for profit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T092850Z" creationid="elioneto" creationdate="20230422T092850Z">
         <seg>Arguelles e Rich revelaram como o capital financeiro estadunidense usou a agência policial secreta da CIA para visar politicamente a mesma população homossexual/transgênera, que já havia explorado anteriormente com fins lucrativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arguelles and Rich stated, with the clarity of courage, “For all the gay men and the few lesbians who left, there were many more who chose to stay. Their lives had been constantly improving. The revolution might not yet speak to the homosexual in them, but it continued to address other vital aspects of their being.” These Cubans, they reported, “steadfastly refused to fulfill their gay identity at the cost of their national and political identities.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T204431Z" creationid="elioneto" creationdate="20230530T204431Z">
+        <seg>Arguelles e Rich analisam, com clareza e coragem, que “para todos os homens gays e algumas lésbicas que resolveram ir embora, há muito mais gente que resolveu ficar. As suas vidas estavam progredindo constantemente. A revolução ainda não tinha olhado para a questão da homossexualidade, mas estava lidando com outros aspectos da vida deles”. Esses cubanos, segundo os autores “recusaram-se veementemente a assumir sua identidade gay às custas de suas identidades políticas e nacionais.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T022535Z" creationid="Usuário" creationdate="20230423T022535Z">
         <seg>FIDEL CASTRO APOIA ESFORÇOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Few lesbians left from Mariel, Arguelles and Rich found. “Their small number by comparison with that of gay men points, again, to the fuller integration of women into Cuban society and the increased status and freedom enjoyed by lesbians, as women, under the revolution.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T204451Z" creationid="elioneto" creationdate="20230530T204451Z">
+        <seg>Arguelles e Rich não encontraram muitas lésbicas que partiram de Mariel. “A pequena quantidade em comparação aos homens gays que partiram evidencia, mais uma vez, uma integração maior das mulheres na sociedade cubana, bem como o crescente status e a liberdade que as lésbicas, enquanto mulheres, beneficiaram com a revolução”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6761,6 +6801,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The thunderous, monopolized voice of the U.S. media machine dwelled on homosexuals who left Cuba from the port of Mariel in 1980, omitting the role of the CIA in instigating migration. At the same time, the U.S.-led political blockade of Cuba silenced the voices of Cubans who chose to stay, working together to actively defend their workers’ state against the most powerful imperialist empire in history.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T204402Z" creationid="elioneto" creationdate="20230530T204402Z">
+        <seg>O canhão da voz monopolizadora da máquina mediática dos Estados Unidos focou nos homossexuais que deixaram Cuba no porto de Mariel em 1980, mas omitiu o papel da CIA que instigou essa migração. Ao mesmo tempo, o bloqueio político de Cuba, liderado pelos Estados Unidos, silenciou as vozes dos cubanos que quiseram ficar e trabalhar juntos para defender ativamente o Estado dos trabalhadores contra a maior potência imperialista da história.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The topic was discussed in communities for weeks afterwards.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T211621Z" creationid="Usuário" creationdate="20230422T211621Z">
@@ -7125,6 +7173,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="ditol" changedate="20230502T205829Z" creationid="ditol" creationdate="20230502T201715Z">
         <seg>Eles puniam a pratica sem distinção entre fiéis e clérigos."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They reported finding “a flourishing homosexual social scene centered around private parties and particular homes.” They described this social networking at parties and beaches as “a feature of Havana life in general.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T204613Z" creationid="elioneto" creationdate="20230530T204613Z">
+        <seg>Eles relataram encontrar “uma cena homossexual crescente no centro de festas privadas e em casas de particulares”. Eles descrevem essa rede social nas festas e nas praias como “uma característica comum da vida em Havana”.</seg>
       </tuv>
     </tu>
     <tu>
