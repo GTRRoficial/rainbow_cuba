@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ché Guevara, Fidel Castro and the Cuban Revolution as a whole challenged all Cuban men to examine male consciousness, attitudes and behaviors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T205240Z" creationid="tatia" creationdate="20230530T205240Z">
+        <seg>Ché Guevara, Fidel Castro e a Revolução Cubana, como um todo,  desafiaram os homens cubanos a examinarem suas próprias consciências, atitudes e comportamentos..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clearly quarantine in Cuba was a tactic at the moment the epidemic emerged, not a scientific principle.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="leila" changedate="20230506T150556Z" creationid="leila" creationdate="20230506T150556Z">
@@ -2290,6 +2298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230525T140400Z" creationid="PC" creationdate="20230510T112543Z">
         <seg>A jornalista cubana, Gisela Arandia, enfatizou em “Gay Cuba”: “Para habitantes de outras partes do mundo, ‘Morango e Chocolate’ poderá ser apenas outro filme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuban men, as well as women, had been treated as the property of other men — the patriarchs of property.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T204751Z" creationid="tatia" creationdate="20230530T204751Z">
+        <seg>Os homens cubanos, assim como as mulheres, também eram tratados como propriedade de outros homens — o patriarcado da propriedade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3185,8 +3201,8 @@
       <tuv lang="en-US">
         <seg>Hechavarría and Hatch added, “The Revolution undertook to provide ample education and employment opportunities for female prostitutes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T204340Z" creationid="tatia" creationdate="20230530T204340Z">
-        <seg>Hechavarría e Hatch acrescentam, “A Revolução tomou para si o trabalho de oferecer amplas oportunidades profissionais e educativas para trabalhadoras do sexo.</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T205124Z" creationid="tatia" creationdate="20230530T204340Z">
+        <seg>Hechavarría e Hatch acrescentam, “A Revolução tomou a iniciativa de oferecer amplas oportunidades profissionais e educativas para trabalhadoras do sexo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4588,6 +4604,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Like the revolution itself, this work is most profoundly meaningful because it is a process, not a single act.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T211910Z" creationid="tatia" creationdate="20230530T211910Z">
+        <seg>Assim como a Revolução em si, este trabalho é profundamente significativo porque se trata de um processo, e não um ato isolado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Long live international solidarity!!”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T003307Z" creationid="Usuário" creationdate="20230428T003307Z">
@@ -5569,6 +5593,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230513T212834Z" creationid="Usuário" creationdate="20230422T232400Z">
         <seg>A liderança revolucionária cubana trouxe a batalha contra a AIDS e os preconceitos sexuais — incluindo atitudes preconceituosas sobre a bissexualidade — para as telinhas da TV popular assim como para as telonas da cultura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revolutionary Cuban men have carried out their own work to consciously build the consciousness of a “new man” on the basis of new social principles.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T205057Z" creationid="tatia" creationdate="20230530T205057Z">
+        <seg>Os homens revolucionários de Cuba tomaram para si o trabalho de construir conscientemente um novo modo de pensar como Homem, baseados nos novos principios sociais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7112,6 +7144,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The revolution challenged the biology-is-destiny “natural order” ideologies of colonialism, capitalism and imperialism that elevated patriarchs to rule.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T212130Z" creationid="tatia" creationdate="20230530T212130Z">
+        <seg>A Revolução desafiou as ideologias de  “ordem natural” e destino-definido-por-biologia, características do colonialismo, capitalismo e imperialismo, que colocaram os patriarcas no poder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The revolution ushered in sex education and reproductive rights.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230427T164317Z" creationid="Administrador" creationdate="20230427T164317Z">
@@ -7821,6 +7861,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023236Z" creationid="Usuário" creationdate="20230423T023236Z">
         <seg>Essa relutância também veio dos profissionais do Ministério da Saúde Pública que não eram especialistas no assunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This revolutionary effort, which continues today, aimed to change old ways that men were taught to interact with women.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230530T211712Z" creationid="tatia" creationdate="20230530T211712Z">
+        <seg>Este esforço revolucionário, que continua até os dias atuais, tinha como objetivo mudar o modo tradicional, ensinados aos homens, de como interagir com as mulheres.</seg>
       </tuv>
     </tu>
     <tu>
