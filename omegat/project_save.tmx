@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;f0&gt;E&lt;/f0&gt;ARLY YEARS OF THE REVOLUTION</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luiza" changedate="20230531T175512Z" creationid="Luiza" creationdate="20230531T175512Z">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;RIMEIROS ANOS DA REVOLUÇÃO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;f0&gt;Friends&lt;/f0&gt;: Sharon Ayling, in memory of Bill Haislip; Sharon Black; George Bollag; Lee Booth; Philip Booth; Lillian Carney; Joyce Chediac and Paul Wilcox, in memory of John Crofford; Meg Barden Cline; Naomi Cohen, Lila Goldstein, and Fred Goldstein, in memory of Rachel Nasca; Heather Cottin; Lawrence Daley; Dave Davis; Angel Dobrow; Bob Dobrow; Sharon Eolis, in loving memory of Dorothy Ballan; Irving Fierstein; Sherry Finkelman; Peter Fiorentino; F.I.S.T.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="daniel" changedate="20230520T161433Z" creationid="Administrador" creationdate="20230426T165457Z">
@@ -2642,6 +2650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T235337Z" creationid="Usuário" creationdate="20230422T235337Z">
         <seg>E-zine &lt;f0&gt;La Jiribilla&lt;/f0&gt; dedicou uma edição inteira ao tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EARLY YEARS OF THE REVOLUTION</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luiza" changedate="20230531T175439Z" creationid="Luiza" creationdate="20230531T175439Z">
+        <seg>PRIMEIROS ANOS DA REVOLUÇÃO</seg>
       </tuv>
     </tu>
     <tu>
@@ -8638,6 +8654,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230531T005403Z" creationid="tatia" creationdate="20230531T005403Z">
         <seg>As Brigadas UMAP::&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UNWEAVING THE LIES&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Luiza" changedate="20230531T175744Z" creationid="Luiza" creationdate="20230531T175744Z">
+        <seg>DESFAZENDO AS MENTIRAS&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
