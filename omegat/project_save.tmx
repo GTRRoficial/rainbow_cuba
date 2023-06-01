@@ -5916,6 +5916,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>People of all ages attend the drag performances, arriving early for a good seat, or climbing onto a tree limb for a last-minute seat.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230601T094258Z" creationid="PC" creationdate="20230601T094119Z">
+        <seg>Pessoas de todas as idades assistiam a esses espetáculos drag, chegando mais cedo para assegurar um bom lugar, ou subindo em um ramo de uma árvore para um lugar de última hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>People “make their own history,” Karl Marx wrote, “but they do not make it just as they please; they do not make it under circumstances chosen by themselves, but under circumstances directly encountered, given and transmitted from the past.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T185601Z" creationid="Administrador" creationdate="20230426T185601Z">
@@ -7860,6 +7868,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T004112Z" creationid="Usuário" creationdate="20230428T003953Z">
         <seg>Os Cinco cubanos patriotas são presos políticos ilegais em um país com a maior parte de seu próprio povo atrás das grades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The performers take their bows to cheers and ovations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230601T094508Z" creationid="PC" creationdate="20230601T094508Z">
+        <seg>As pessoas atuando curvam-se para receber aplausos e ovações.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10589,8 +10605,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>“Butterflies on the Scaffold” is packed with footage of indoor and outdoor drag performances in front of an audience of virtually all their co-workers and neighbors, family and friends.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230601T094048Z" creationid="PC" creationdate="20230601T094048Z">
-        <seg>“Mariposas en el andamio” está repleto de cenas com performances drag, tanto no interior como no exterior, em frente de um público de praticamente todes seus colegas e vizinhança, família e amigos.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230601T094132Z" creationid="PC" creationdate="20230601T094048Z">
+        <seg>“Mariposas en el andamio” está repleto de cenas com performances drag, tanto no interior como no exterior, em frente de um público de praticamente todos seus colegas e vizinhança, família e amigos.</seg>
       </tuv>
     </tu>
     <tu>
