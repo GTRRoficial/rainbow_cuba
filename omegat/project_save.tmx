@@ -464,6 +464,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Cuban who worked in a UMAP, interviewed by Nicaraguan poet Ernesto Cardenal in 1970-1971, related that Fidel slipped into a UMAP brigade one night and lay down in one of the hammocks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230601T050930Z" creationid="tatia" creationdate="20230601T050930Z">
+        <seg>Um cubano que trabalho em uma UMAP, iquando entrevistado pelo poeta nicaraguense Ernesto Cardenal em 1970-1971, relatou que Fidel entrou de forma incógnita em uma brigada UMAP certa noite e deitou-se em uma das redes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cross-dressing factory worker explained, “Besides working here I am an artist.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230511T123818Z" creationid="PC" creationdate="20230510T120715Z">
@@ -3002,6 +3010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230531T230604Z" creationid="tatia" creationdate="20230531T230604Z">
         <seg>Fidel Castro falou extensivamente sobre a UMAP em duas entrevistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fidel is the man of the unexpected visits.” (Cardenal)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230601T050524Z" creationid="tatia" creationdate="20230601T050524Z">
+        <seg>Fidelé o homem das visitas inesperadas..” (Cardenal)</seg>
       </tuv>
     </tu>
     <tu>
