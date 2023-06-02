@@ -634,8 +634,8 @@
       <tuv lang="en-US">
         <seg>A young man who says he is gay but not ready to do cross-dress performance said, “I have a fabulous family.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="PC" changedate="20230602T081808Z" creationid="PC" creationdate="20230602T081808Z">
-        <seg>Um jovem que afirma ser gay mas não estar pronto para fazer cross-dress, diz: “Eu tenho uma família maravilhosa.</seg>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230602T081942Z" creationid="PC" creationdate="20230602T081808Z">
+        <seg>Um jovem que afirma ser gay mas não estar pronto para fazer cross-dress, diz: “Eu tenho uma família fantástica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230529T100418Z" creationid="tatia" creationdate="20230529T100418Z">
         <seg>No encontro de lideranças do FMC em 1966, o presidente Fidel Castro observou, “A participação das mulheres na Revolução foi, em si, uma revolução da Revolução, e se fôssemos perguntados sobre a coisa mais revolucionária que a Revolução estava fazendo, nós diríamos com certeza de que seria precisamente isto— a revolução que está ocorrendo entre as mulheres do nosso país.” (Hillson)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At first it was rough but once they realized it was my path, they accepted it and my friends, with their virtues and defects.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230602T082150Z" creationid="PC" creationdate="20230602T082150Z">
+        <seg>No início, foi um pouco difícil; mas, quando descobriram que era meu curso na vida, eles me aceitaram, e meus amigos também, tanto o bom quanto o mau.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3675,6 +3683,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230601T191841Z" creationid="PC" creationdate="20230601T191841Z">
         <seg>Ele é o que é.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His father, working in the background, is asked, “What do you think of your son?”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230602T082427Z" creationid="PC" creationdate="20230602T082427Z">
+        <seg>O pai, working in the background, is asked, “What do you think of your son?”</seg>
       </tuv>
     </tu>
     <tu>
@@ -9430,6 +9446,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T022010Z" creationid="Usuário" creationdate="20230423T021843Z">
         <seg>Casamentos informais entre pessoas do mesmo sexo ocorreram na ilha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Up to now I haven’t had problems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="PC" changedate="20230602T081958Z" creationid="PC" creationdate="20230602T081958Z">
+        <seg>Até agora não tenho tido quaisquer problemas.</seg>
       </tuv>
     </tu>
     <tu>
