@@ -1488,8 +1488,8 @@
       <tuv lang="en-US">
         <seg>Behind the 1980&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T084102Z" creationid="elioneto" creationdate="20230422T084102Z">
-        <seg>Por trás dos anos 80&lt;br0/&gt;</seg>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230607T133624Z" creationid="elioneto" creationdate="20230422T084102Z">
+        <seg>Por trás do "Êxodo de Mariel" nos anos 80&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6697,6 +6697,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T084752Z" creationid="elioneto" creationdate="20230422T084752Z">
         <seg>Milhares de cubanos que se identificavam como homossexuais estavam entre as 120.000 pessoas que sairam da ilha, em um período de dois meses nos anos 80, partindo do porto de Marial e navegando até os Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Several thousand self-identified homosexual Cubans were among the some 120,000 who left the island over a two-month period in 1980 from the port of Mariel and sailed to the U.S. The media in the imperialist countries, whose capitalist classes were hell-bent on re-colonizing Cuba, broadcast an anti-communist interpretation of what produced that migration at Mariel.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230607T134159Z" creationid="elioneto" creationdate="20230607T134159Z">
+        <seg>Milhares de cubanos que se identificavam como homossexuais estavam entre as 120.000 pessoas que saíram da ilha em um período de dois meses do porto de Mariel com direção aos Estados Unidos. A mídia dos países imperialistas, cujas classes capitalistas estavam empenhadas na recolonização de Cuba, transmitiram uma visão anti-comunista sobre o que resultou a migração em Mariel.</seg>
       </tuv>
     </tu>
     <tu>
