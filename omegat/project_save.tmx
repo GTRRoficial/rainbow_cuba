@@ -770,8 +770,8 @@
       <tuv lang="en-US">
         <seg>After the Cuban Revolution shut down U.S. finance capital’s burgeoning sex and casino industries that had exploited mass numbers of homosexuals, U.S. immigration authorities unofficially lifted the part of the Immigration and Naturalization Act of 1952 that had been used to bar and deport those it labeled “sexually deviant” — but only for homosexual Cubans.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="elioneto" changedate="20230425T095236Z" creationid="elioneto" creationdate="20230425T095236Z">
-        <seg>Depois que a Revolução Cubana acabou as crescentes industrias sexuais e de cassino do capital financeiro dos Estados Unidos, que exploravam um número massivo de homossexuais, as autoridades da imigração dos Estados Unidos removeu a parte da Lei de Imigração e de Naturalização de 1952 que era usada para barrar e deportar os indivíduos considerados como "sexualmente desviados", mas apenas para os homossexuais cubanos..</seg>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230607T150129Z" creationid="elioneto" creationdate="20230425T095236Z">
+        <seg>Depois que a Revolução Cubana acabou com as crescentes industrias sexuais e de cassino do capital financeiro dos Estados Unidos, que exploravam um número massivo de homossexuais, as autoridades da imigração dos Estados Unidos removeu a parte da Lei de Imigração e de Naturalização de 1952 que era usada para barrar e deportar os indivíduos considerados como "sexualmente desviados", mas apenas para os homossexuais cubanos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9806,6 +9806,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230425T095440Z" creationid="elioneto" creationdate="20230425T095440Z">
         <seg>Washington atraiu os cubanos para arriscavam suas vidas no mar criando uma exceção nas leis e quotas da imigração que barravam a migração legal nos Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Washington lured Cubans to risk their lives at sea by creating an exception to immigration rules and quotas that barred legal migration to the U.S. Any Cuban who arrived on U.S. soil was promised admission, with perks.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="elioneto" changedate="20230607T150515Z" creationid="elioneto" creationdate="20230607T150515Z">
+        <seg>Washington atraia os cubanos a arriscarem suas próprias vidas no mar ao criar regras e quotas excepcionais de imigração que ignorava a migração legal aos Estados Unidos. Para qualquer cubano que chegava no solo estadunidense, a admissão era garantida, com benefícios.</seg>
       </tuv>
     </tu>
     <tu>
