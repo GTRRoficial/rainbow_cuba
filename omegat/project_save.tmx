@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7656,8 +7656,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>The Rainbow Solidarity call demands a new trial and freedom for these political prisoners, defense of Cuban sovereignty and self-determination and a halt to the illegal U.S. acts of war against Cuba — including the economic blockade and CIA trained, funded and armed attacks by mercenary “contra” armies operating from this country.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Usuário" changedate="20230427T013939Z" creationid="Usuário" creationdate="20230427T013939Z">
-        <seg>A chamada Rainbow Solidarity exige um novo julgamento e liberdade para esses prisioneiros políticos, a defesa da soberania e autodeterminação cubana e a suspensão dos atos ilegais de guerra dos EUA contra Cuba — incluindo o bloqueio econômico e os ataques treinados, financiados e armados pela CIA por mercenários “contra” exércitos que operam a partir deste país.</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230608T101717Z" creationid="Usuário" creationdate="20230427T013939Z">
+        <seg>A chamada Rainbow Solidarity exige um novo julgamento e liberdade para esses prisioneiros políticos, a defesa da soberania e autodeterminação cubana e a suspensão dos atos ilegais de guerra dos EUA contra Cuba — incluindo o bloqueio econômico e os ataques treinados, financiados e armados pela CIA por exércitos mercenários "contra" que operam a partir deste país.</seg>
       </tuv>
     </tu>
     <tu>
