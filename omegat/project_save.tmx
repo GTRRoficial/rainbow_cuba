@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Levin)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230608T095633Z" creationid="antbs" creationdate="20230608T095633Z">
+        <seg>(Levin) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Queers Undermining Israeli Terrorism); LAGAI-Queer Insurrection; Stonewall Warriors, Boston; Greek Homosexual Community, Athens, Greece; Queertoday.com, Boston, Mass.; and Queers Without Borders, Hartford, Conn.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230428T001816Z" creationid="Usuário" creationdate="20230428T001816Z">
@@ -10085,8 +10093,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>West pointed out in 1995, “Given the profound economic crisis currently gripping Cuba, it is astonishing that a feature such as ‘Strawberry and Chocolate’ could be produced.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="antbs" changedate="20230604T105734Z" creationid="antbs" creationdate="20230604T105734Z">
-        <seg>West assinalou em 1995 que "Dada a profunda crise econômica que atualmente sufoca Cuba, é admirável que um filme como 'Morango e chocolate' possa ser produzido.</seg>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230608T095432Z" creationid="antbs" creationdate="20230604T105734Z">
+        <seg>West assinalou, em 1995, que "Dada a profunda crise econômica que atualmente sufoca Cuba, é admirável que um filme como 'Morango e chocolate' possa ser produzido.</seg>
       </tuv>
     </tu>
     <tu>
