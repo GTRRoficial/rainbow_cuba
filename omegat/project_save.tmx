@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3527,6 +3527,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gutiérrez Alea, battling cancer, also had to undergo surgery during the production of the film.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230607T173918Z" creationid="antbs" creationdate="20230607T173918Z">
+        <seg>Gutiérrez Alea, que luta contra o câncer, também teve que passar por uma cirugia durante a produção do filme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gutiérrez contrasted 1979, the year in which “Strawberry and Chocolate” is set, with life on the island in 1995: “Now there is greater flexibility in job opportunities for homosexuals.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="antbs" changedate="20230509T015011Z" creationid="antbs" creationdate="20230509T015011Z">
@@ -5143,6 +5151,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230422T235423Z" creationid="Usuário" creationdate="20230422T235423Z">
         <seg>O jornalista Ricardo Ronquillo concluiu: “Seria preocupante se pensássemos em nós mesmos como uma sociedade totalmente de acordo, sem argumentos concorrentes nem posições discordantes diante de seus conflitos mais íntimos; ou pior ainda, que o silêncio prevalecesse”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Juan Carlos Tabio, a collaborator, stepped up to co-direct the film.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230607T174037Z" creationid="antbs" creationdate="20230607T174037Z">
+        <seg>Juan Carlos Tabio, um colaborador, se apresentou para co-dirigir o filme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9257,6 +9273,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This interviewer’s videotape copy of [Gutiérrez’s 1968 film] ‘Memories of Under development’ was confiscated by U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230608T090134Z" creationid="antbs" creationdate="20230608T090134Z">
+        <seg>A cópia da gravação [do filme d 1968, de Gutiérrez] deste entrevistador </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is merely a small part of their social debt to the Third World.”</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T215544Z" creationid="Gabri" creationdate="20230420T215544Z">
@@ -10003,6 +10027,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>West concluded: “The commercial release of ‘Strawberry and Chocolate’ in the U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230607T174305Z" creationid="antbs" creationdate="20230607T174305Z">
+        <seg>West conclui dizendo: "O lançamento comercial de 'Morango e chocolate' nos Estados Unidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>West conducted the interview in Juarez, Mexico, during the Second Festival of Latinamerican Cinema Paso del Norte; Dennis West and Joan M. West translated the interview into English, edited it and published it in the Winter-Spring 1995 edition of &lt;f0&gt;Cineaste&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="daniel" changedate="20230520T161631Z" creationid="antbs" creationdate="20230506T084656Z">
@@ -10459,6 +10491,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>authorities have at times hounded Gutiérrez Alea — by, for example, denying his visa requests or blocking exhibitions of his works.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230607T182734Z" creationid="antbs" creationdate="20230607T182734Z">
+        <seg>haviam, por vezes, perseguido Gutiérrez Alea - ao, por exemplo, negar seu pedidos de visto ou censurando as exiições de seus trabalhos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>banks and corporations commanded Washington not to recognize Cuba’s right to diplomatic recognition.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230422T085904Z" creationid="elioneto" creationdate="20230422T085904Z">
@@ -10671,6 +10711,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="PC" changedate="20230529T071556Z" creationid="PC" creationdate="20230517T120034Z">
         <seg>nos refeitórios de trabalhadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>is a welcome event because U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230607T174418Z" creationid="antbs" creationdate="20230607T174418Z">
+        <seg>é um evento bem vindo, já que as autoridades estadunidenses</seg>
       </tuv>
     </tu>
     <tu>
@@ -11695,6 +11743,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230426T223655Z" creationid="Usuário" creationdate="20230426T223655Z">
         <seg>“Algo assim colocaria a revolução ainda mais em linha com sua ética humanista; a Revolução Cubana foi possível por causa da participação de todos os homens e mulheres, de todos os cubanos que se identificaram com as conquistas e sonhos desse projeto social.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Strawberry and Chocolate” was the first Cuban movie to be nominated for an Oscar in the Best Foreign Film category.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="antbs" changedate="20230607T174201Z" creationid="antbs" creationdate="20230607T174201Z">
+        <seg>"Morango e chocolate" foi o primeiro filme cubano a ser indicado para o Oscar na categoria de Melhor Filme Estrangeiro.</seg>
       </tuv>
     </tu>
     <tu>
