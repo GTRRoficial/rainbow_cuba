@@ -19,3 +19,4 @@ Cross-gender	Cross-gender	Não estou traduzindo o termo.
 special period	período especial	Período de crise econômica que começou em 1989, principalmente devido à dissolução da União Soviética e, por extensão, do COMECON, e que se estendeu ao longo dos anos 90.
 UMAP	UMAP	No plural, pois são várias brigadas; ex.: as UMAP
 “Butterflies on the Scaffold"	“Mariposas en el andamio”	Documentário sobre artistas drag cubanes
+Two Spirit	Dois Espíritos	Uma forma de se dizer não-binário que é usado pelos povos originários dos EUA.
