@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9710,6 +9710,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T180614Z" creationid="Administrador" creationdate="20230426T180333Z">
         <seg>Grandes corporações dos Estados Unidos, incluindo os sindicatos do crime, organizaram Cuba em um grande bordel, super explorando o trabalho sexual de homens e mulheres Cubanas, femininos/feminines/femininas e maculinos/masculines, homosexual ou heterosexual. 
 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>U.S. crime syndicate bosses and wealthy Cubans with connections to Batista’s regime owned the profitable operations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Administrador" changedate="20230612T125228Z" creationid="Administrador" creationdate="20230612T125228Z">
+        <seg>Os líderes do sindicato criminal dos EUA e os cubanos ricos com conexões com o regime Batista detinham essas lucrativas operações.</seg>
       </tuv>
     </tu>
     <tu>
