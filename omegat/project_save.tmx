@@ -2486,6 +2486,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cover design: Lal Roohk</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230616T091504Z" creationid="tatia" creationdate="20230616T091504Z">
+        <seg>Projeto gráfico e capa: Lal Roohk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cover photo: Barbara Smith</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230616T091449Z" creationid="tatia" creationdate="20230616T091449Z">
+        <seg>Fotografia: Barbara Smith</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Crime bosses also exploited tens of thousands of heterosexual women and men in the prostitution industry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230529T035018Z" creationid="tatia" creationdate="20230529T034946Z">
@@ -3283,6 +3299,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="ditol" changedate="20230516T163617Z" creationid="Administrador" creationdate="20230503T145527Z">
         <seg>Fondo Casaola, Fototeca do Instituto Nacional de Antropologia e Historia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fonts: Adobe Jenson Pro and Myriad Pro</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230616T093907Z" creationid="tatia" creationdate="20230616T093907Z">
+        <seg>Fontes: Adobe Jenson Pro and Myriad Pro</seg>
       </tuv>
     </tu>
     <tu>
