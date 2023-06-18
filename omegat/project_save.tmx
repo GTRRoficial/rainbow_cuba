@@ -9841,6 +9841,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>U.S.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230618T111117Z" creationid="tatia" creationdate="20230618T111109Z">
+        <seg>Bloqueio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>U.S. airport bookstores are lined with pop psychology publications that claim women and men are from different planets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230427T164527Z" creationid="Administrador" creationdate="20230427T164527Z">
@@ -10941,8 +10949,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>imperialist blockade obstructed Cuban AIDS treatment</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Gabri" changedate="20230430T121632Z" creationid="Gabri" creationdate="20230420T213611Z">
-        <seg>imperialista dos EUA obstruiu o tratamento de Cuba contra a AIDS</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230618T111849Z" creationid="Gabri" creationdate="20230420T213611Z">
+        <seg>imperialista dos Estados Unidos obstruiu o tratamento de Cuba contra a AIDS</seg>
       </tuv>
     </tu>
     <tu>
