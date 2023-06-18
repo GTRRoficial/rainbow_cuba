@@ -1202,8 +1202,8 @@
       <tuv lang="en-US">
         <seg>Arguelles and Rich noted about life for the homosexual/transgender urban work force in pre-revolutionary Cuba, “If legal sanctions and official harassment were rare, this tolerance was due less to social acceptance than to overriding considerations of profit and the economic interests of the underworld that dominated the Cuban political apparatus.”</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Natasha" changedate="20230618T133505Z" creationid="Natasha" creationdate="20230618T133505Z">
-        <seg>Arguelles e Rich fizeram a seguinte observação sobre a vida da força de trabalho urbana homossexual/transgênero na Cuba pré-revolucionária: "Se as sanções legais e o assédio oficial eram raros, essa tolerância se devia menos à aceitação social do que a considerações primordiais de lucro e aos interesses econômicos do submundo que dominava o aparato político cubano.”</seg>
+      <tuv lang="pt-BR" changeid="Natasha" changedate="20230618T133549Z" creationid="Natasha" creationdate="20230618T133505Z">
+        <seg>Arguelles e Rich fizeram a seguinte observação sobre a vida da força de trabalho urbana homossexual/transgênero na Cuba pré-revolucionária: "Se as sanções legais e o assédio oficial eram raros, essa tolerância se devia menos à aceitação social do que a considerações prioritárias de lucro e aos interesses econômicos do submundo que dominava o aparato político cubano.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1842,6 +1842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230423T023027Z" creationid="Usuário" creationdate="20230423T023027Z">
         <seg>Mas a cobertura da mídia, Castro Espín lembrou, foi tingida com mais sensacionalismo do que ciência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But the misery of urban sexual enslavement in brothels, casinos, domestic work and drug networking is nowhere to be seen in “Before Night Falls.” Neither is the apparatus of the Batista dictatorship’s police, secret agents and army.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Natasha" changedate="20230618T134006Z" creationid="Natasha" creationdate="20230618T134006Z">
+        <seg>Mas a miséria da escravidão sexual urbana em bordéis, cassinos, trabalho doméstico e redes de tráfico de drogas em momento algum é vista em "Antes do Anoitecer". Tampouco o aparato da polícia, dos agentes secretos e do exército da ditadura de Batista.</seg>
       </tuv>
     </tu>
     <tu>
