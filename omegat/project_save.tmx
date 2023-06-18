@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4091,6 +4091,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Natasha" changedate="20230519T213048Z" creationid="Natasha" creationdate="20230519T213048Z">
         <seg>Hollywood projetou Cuba como sendo um "estado policialesco" para gays</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hollywood projected Cuba&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230618T155830Z" creationid="Usuário" creationdate="20230618T155830Z">
+        <seg>Hollywood projetou Cuba&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11085,8 +11093,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>as ‘police state’ for gays</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Natasha" changedate="20230519T205600Z" creationid="Natasha" creationdate="20230519T205600Z">
-        <seg>as ‘police state’ for gays           </seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230618T155850Z" creationid="Natasha" creationdate="20230519T205600Z">
+        <seg>como ‘estado policialesco’ para gays</seg>
       </tuv>
     </tu>
     <tu>
