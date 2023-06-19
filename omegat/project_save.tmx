@@ -410,8 +410,8 @@
       <tuv lang="en-US">
         <seg>&lt;f0&gt;MEDICC Review&lt;/f0&gt; reprinted the full text of a speech by Cuban Vice President Carlos Lage Dávila, delivered earlier that year at the United Nations General Assembly on AIDS.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Gabri" changedate="20230420T214341Z" creationid="Gabri" creationdate="20230420T214341Z">
-        <seg>A &lt;f0&gt;MEDICC Review&lt;/f0&gt; reproduziu o texto completo de um discurso do vice-presidente cubano, Carlos Lage Dávilla, apresentado no início do ano na Assembleia Geral das Nações Unidas sobre AIDS.</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230619T053731Z" creationid="Gabri" creationdate="20230420T214341Z">
+        <seg>A &lt;f0&gt;MEDICC Review&lt;/f0&gt; reproduziu o texto completo de um discurso do vice-presidente cubano, Carlos Lage Dávilla, apresentado no início do ano na Assembleia Geral das Nações Unidas sobre a AIDS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9539,8 +9539,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>They die with no treatment in sight.” (“Cuba’s HIV-AIDS Rate”)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Gabri" changedate="20230421T155148Z" creationid="Gabri" creationdate="20230420T214329Z">
-        <seg>Elas morrem sem a perspectiva de tratamento." ("A taxa de HIV-AIDS de Cuba"))</seg>
+      <tuv lang="pt-BR" changeid="tatia" changedate="20230619T053707Z" creationid="Gabri" creationdate="20230420T214329Z">
+        <seg>Elas morrem sem perspectiva de tratamento." ("A taxa de HIV-AIDS de Cuba"))</seg>
       </tuv>
     </tu>
     <tu>
