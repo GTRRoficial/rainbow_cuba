@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bjorklund noted: “Before the Center for Sexual Education (CNES) started its work, sexual education was a practically unknown phenomenon in Cuba, as in the rest of Latin America, where the stand and the attitude of the Catholic Church has continued to curb any attempted change.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T172449Z" creationid="daniel" creationdate="20230620T172449Z">
+        <seg>Bjorklund assinalou: "Antes do Centro Nacional de Educação Sexual (CNES) ter começado seu trabalho, a educação sexual era praticamente desconhecida em Cuba, assim como no resto da América Latina, onde a posição e atitude da Igreja Católica continuou a impedir qualquer tentativa de mudança;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bob McCubbin and Minnie Bruce Pratt carefully copyedited.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230426T145921Z" creationid="Administrador" creationdate="20230426T145921Z">
@@ -9275,8 +9283,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>The work done by this center has contributed to changes in attitudes and laws, and the credit for the fact that the AIDS problem has not been handled with a homophobic outlook is largely attributed to this endeavor.” (Bjorklund)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T172202Z" creationid="daniel" creationdate="20230620T172202Z">
-        <seg>O trabalho desse centro contribuiu para mudanças tanto nas atitudes quanto nas leis, e a ele também pode ser creditado em grande parte o fato de que o problema da AIDS não tenha sido tratado com um prisma homofóbico.</seg>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T172216Z" creationid="daniel" creationdate="20230620T172202Z">
+        <seg>O trabalho desse centro contribuiu para mudanças tanto nas atitudes quanto nas leis, e a ele também pode ser creditado em grande parte o fato de que o problema da AIDS não tenha sido tratado com um prisma homofóbico."</seg>
       </tuv>
     </tu>
     <tu>
