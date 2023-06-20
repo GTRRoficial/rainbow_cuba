@@ -21,3 +21,4 @@ UMAP	UMAP	No plural, pois são várias brigadas; ex.: as UMAP
 “Butterflies on the Scaffold"	“Mariposas en el andamio”	Documentário sobre artistas drag cubanes
 Two Spirit	Dois Espíritos	Uma forma de se dizer não-binário que é usado pelos povos originários dos EUA.
 Caucus	Convenção	Pode ser tanto convenção política, quanto reunião política quanto facção eleitoral.
+National Assembly of People’s Power	Assembleia Nacional do Poder Popular
