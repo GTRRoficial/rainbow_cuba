@@ -3881,8 +3881,8 @@
       <tuv lang="en-US">
         <seg>He added, “With this kind of task, to create a national plan, you can’t leave it in the hands of one person or a group of people or to one organization; it has to be done throughout the entire society.”</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T175258Z" creationid="daniel" creationdate="20230620T175040Z">
-        <seg>Ele adicionou: "Esse tipo de tarefa, isto é, de criar um plano nacional, não pode ser deixada nas mão de um único indivíduo ou grupo de pessoas ou de uma única organização; ela deve ser feita perpassando por toda a sociedade."</seg>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T175340Z" creationid="daniel" creationdate="20230620T175040Z">
+        <seg>Ele adicionou: "Esse tipo de tarefa, isto é, de criar um plano nacional, não pode ser deixada nas mão de um único indivíduo ou grupo de pessoas ou de uma única organização; ela deve ser feita passando por toda a sociedade."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6520,6 +6520,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230530T210802Z" creationid="elioneto" creationdate="20230530T210802Z">
         <seg>Uma das primeiras ações da revolução de 1960, conhecida como o Ano da Educação, foi a organização de voluntários para ensinar 700.000 adultos a ler. Cuba rapidamente atingiu a maior taxa de alfabetização da América Latina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One of the first suggestions the Ministry of Education made was to begin elementary sex education from the earliest years.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T175616Z" creationid="daniel" creationdate="20230620T175616Z">
+        <seg>Uma das primeiras sugestões feitas feitas pelo Ministério da Saúde foi a de iniciar a educação sexual elementar desde a mais tenra idade.</seg>
       </tuv>
     </tu>
     <tu>
