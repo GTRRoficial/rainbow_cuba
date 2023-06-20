@@ -536,6 +536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A fourth publication, “Thinking About Love?” (&lt;f0&gt;¿Piensas ya en el amor?&lt;/f0&gt;), was designed for teenagers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T185543Z" creationid="daniel" creationdate="20230620T185543Z">
+        <seg>Uma quarta publicação, &lt;f0&gt;¿Piensas ya en el amor?&lt;/f0&gt;, foi pensada para adolescentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A frequently updated list of signers is posted at www.freethefiveny.org.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Administrador" changedate="20230427T201259Z" creationid="Administrador" creationdate="20230427T201259Z">
@@ -5431,6 +5439,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230525T055820Z" creationid="Renan" creationdate="20230421T133617Z">
         <seg>Foi o maior número de ligações feitas em um único dia para o Salão Oval em toda a sua história...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was up to the parents to answer their kids’ questions and they needed to know how to do that.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T185503Z" creationid="daniel" creationdate="20230620T185458Z">
+        <seg>Era responsabilidade dos pais responder as perguntas de seus filhos e eles precisavam saber como fazer isso."</seg>
       </tuv>
     </tu>
     <tu>
@@ -13165,8 +13181,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>“We were trying to tell parents that they didn’t have any alternative, they had to tell children about these things, because their kids were going to deal with them for better or for worse.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T185349Z" creationid="daniel" creationdate="20230620T185349Z">
-        <seg>"Nós estávamos tentando dizer aos pais que eles não tinham outra alternativa, que precisavam falar sobre essas coisas com seus filhos, porque, por bem ou por mal, eles teriam que lidar com elas durante a vida.</seg>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T185417Z" creationid="daniel" creationdate="20230620T185349Z">
+        <seg>"Nós estávamos tentando dizer aos pais que eles não tinham outra alternativa, que precisavam falar sobre essas coisas com seus filhos, porque, por bem ou por mal, eles teriam que lidar com isso no futuro.</seg>
       </tuv>
     </tu>
     <tu>
