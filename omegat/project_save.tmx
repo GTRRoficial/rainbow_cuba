@@ -1696,8 +1696,8 @@
       <tuv lang="en-US">
         <seg>Bjorklund noted: “Before the Center for Sexual Education (CNES) started its work, sexual education was a practically unknown phenomenon in Cuba, as in the rest of Latin America, where the stand and the attitude of the Catholic Church has continued to curb any attempted change.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T172449Z" creationid="daniel" creationdate="20230620T172449Z">
-        <seg>Bjorklund assinalou: "Antes do Centro Nacional de Educação Sexual (CNES) ter começado seu trabalho, a educação sexual era praticamente desconhecida em Cuba, assim como no resto da América Latina, onde a posição e atitude da Igreja Católica continuou a impedir qualquer tentativa de mudança;</seg>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T172502Z" creationid="daniel" creationdate="20230620T172449Z">
+        <seg>Bjorklund assinalou: "Antes do Centro Nacional de Educação Sexual (CNES) ter começado seu trabalho, a educação sexual era praticamente desconhecida em Cuba, assim como no resto da América Latina, onde a posição e atitude da Igreja Católica continuou a impedir qualquer tentativa de mudança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cuban women led the way forward.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T172639Z" creationid="daniel" creationdate="20230620T172639Z">
+        <seg>As mulheres cubanas lideram à frente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cuban women organize for gains</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230529T083710Z" creationid="tatia" creationdate="20230529T083710Z">
@@ -3074,6 +3082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230525T064208Z" creationid="tatia" creationdate="20230525T064208Z">
         <seg>Dr. Celestino Álvarez Lajonchere, ginecologista e pioneiro no campo de educação sexual em Cuba, lembrou aos seus entrevistadores em 1988, “Vocês têm ciência de que este país herdou um sistema de saúde onde as zonas rurais e cidades pequenas era quase ou totalmente desprovidas de atendimento médico antes da Revolução.” (Fee)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dr. Celestino Álvarez Lajonchere, then-director of the National Institute of Sex Edu cation in Havana, recalled in a 1986 interview: “In 1974, the Federation of Cuban Women has already insisted that sex education had to be done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T173057Z" creationid="daniel" creationdate="20230620T173057Z">
+        <seg>O Dr. Celestino Álvarez Lajonchere, então diretor do Instituto Nacional de Educação Sexual em Havana, relembra em uma entrevista de 1986: "Em 1974, a Federação das Mulheres Cubanas já insitia que a educação sexual tinha de ser feita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5029,6 +5045,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Usuário" changedate="20230608T210006Z" creationid="Usuário" creationdate="20230427T014426Z">
         <seg>Nos próximos anos, o respeito dos EUA por Cuba será extremamente importante para o bem-estar público dos EUA, já que a agricultura industrializada ao estilo dos EUA resulta em uma crise alimentar para a qual Cuba foi pioneira na única solução possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this light, Cuba’s sexual education is groundbreaking.”</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230620T172606Z" creationid="daniel" creationdate="20230620T172606Z">
+        <seg>Sob essa luz, a educação sexual de Cuba é revolucionária."</seg>
       </tuv>
     </tu>
     <tu>
