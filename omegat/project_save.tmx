@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="leila" changedate="20230506T152554Z" creationid="leila" creationdate="20230506T152554Z">
         <seg>(Aguilera)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Critical Resistance)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203323Z" creationid="Usuário" creationdate="20230622T203323Z">
+        <seg>(Resistência Crítica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1092,6 +1100,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Natasha" changedate="20230618T141213Z" creationid="Natasha" creationdate="20230618T141213Z">
         <seg>E hoje é o imperialismo estadunidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And today it is U.S. imperialism that has set up concentration camps — from Abu Ghraib to Guantánamo — where anti-gay and anti-trans rape and humiliation are incorporated into the science of torture.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203426Z" creationid="Usuário" creationdate="20230622T203426Z">
+        <seg>E hoje é o imperialismo dos EUA que criou campos de concentração — de Abu Ghraib a Guantánamo — onde o estupro e humilhação anti-gay e anti-trans são incorporados na ciência da tortura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2762,6 +2778,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Natasha" changedate="20230618T135252Z" creationid="Natasha" creationdate="20230618T134942Z">
         <seg>Cuba era um Estado operário recém-desenvolvido, que teve de lutar literalmente contra ataques militares abertos e secretos e contra o estrangulamento econômico do imperialismo estadunidense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuba was a newly developing workers’ state — which had to literally battle overt and covert military onslaught and economic strangulation by U.S. imperialism.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203242Z" creationid="Usuário" creationdate="20230622T203242Z">
+        <seg>Cuba era um Estado operário recém-desenvolvido — que teve que lutar literalmente contra o ataque militar aberto e encoberto e o estrangulamento econômico pelo imperialismo dos EUA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8520,6 +8544,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The closet was the operative image.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203308Z" creationid="Usuário" creationdate="20230622T203308Z">
+        <seg>O armário era a imagem operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The commission immediately blocked the import of all blood products from countries in which the epidemic was already documented.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230525T062848Z" creationid="tatia" creationdate="20230525T062848Z">
@@ -11343,6 +11375,14 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       </tuv>
       <tuv lang="pt-BR" changeid="elioneto" changedate="20230607T134601Z" creationid="elioneto" creationdate="20230425T114316Z">
         <seg>O fundador do Partido Mundial dos Trabalhadores Sam Marcy, escreveu: "Os anos 70 foram o ápice da influência revolucionária cubana, não somente na América Latina, mas também na África, Ásia e até mesmo na Europa. Cuba fazia parte de um movimento a nível mundial da classe trabalhadora, principalmente nos países oprimidos. O imperialismo estadunidense estava na defensiva, sobretudo após a sua derrota histórica no Vietnã e sua incompetência de destruir ou dominar a Revolução Cubana". (Marcy) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Workers’ state, not bosses’ state</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203202Z" creationid="Usuário" creationdate="20230622T203202Z">
+        <seg>Estado dos trabalhadores, não Estado dos patrões</seg>
       </tuv>
     </tu>
     <tu>
