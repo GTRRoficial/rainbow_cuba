@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3927,6 +3927,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HOMOSEXUALITY AND CUBA</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203627Z" creationid="Usuário" creationdate="20230622T203627Z">
+        <seg>HOMOSSEXUALIDADE E CUBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Havana exerted a gravitational pull on those who cut cane from sunup to sundown.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="tcban" changedate="20230428T012539Z" creationid="tcban" creationdate="20230428T012539Z">
@@ -4091,6 +4099,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="tatia" changedate="20230530T205124Z" creationid="tatia" creationdate="20230530T204340Z">
         <seg>Hechavarría e Hatch acrescentam, “A Revolução tomou a iniciativa de oferecer amplas oportunidades profissionais e educativas para trabalhadoras do sexo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hechavarría and Hatch added: “It was Clinton/Bush [Sr.]-inspired destiny that a hot button pushing, gay-themed anti-Cuba melodrama would be released.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203615Z" creationid="Usuário" creationdate="20230622T203615Z">
+        <seg>Hechavarría e Hatch acrescentaram: “Foi o destino inspirado por Clinton/Bush [Sr.] que um melodrama anti-Cuba com tema gay fosse lançado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9403,8 +9419,8 @@ Exercia um poder imensuravelmente maior porque era parte da revolução, e não 
       <tuv lang="en-US">
         <seg>The state of former slaves</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Natasha" changedate="20230618T141411Z" creationid="Natasha" creationdate="20230618T141411Z">
-        <seg>O Estado dos ex-escravos (ou escravizados?)</seg>
+      <tuv lang="pt-BR" changeid="Usuário" changedate="20230622T203439Z" creationid="Natasha" creationdate="20230618T141411Z">
+        <seg>O Estado dos ex-escravos</seg>
       </tuv>
     </tu>
     <tu>
