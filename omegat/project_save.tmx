@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2592,8 +2592,8 @@
       <tuv lang="en-US">
         <seg>Colonialism, and later imperialism, brought anti-homosexual and anti-trans laws and state repression to Cuba.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="daniel" changedate="20230519T193710Z" creationid="daniel" creationdate="20230420T040801Z">
-        <seg>O colonialismo e, posteriormente, o imperialismo trouxeram leis contra pessoas trans e homossexuais a Cuba, aliadas à repressão estatal.</seg>
+      <tuv lang="pt-BR" changeid="daniel" changedate="20230713T223556Z" creationid="daniel" creationdate="20230420T040801Z">
+        <seg>O colonialismo e o imperialismo trouxeram leis contra pessoas trans e homossexuais a Cuba, aliadas à repressão estatal.</seg>
       </tuv>
     </tu>
     <tu>
